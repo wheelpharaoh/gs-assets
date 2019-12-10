@@ -1,0 +1,55 @@
+
+chara_1610.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 906, 365
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 579, 243
+  size: 195, 217
+  orig: 195, 217
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 1, 41
+  size: 22, 187
+  orig: 22, 187
+  offset: 0, 0
+  index: -1
+004
+  rotate: true
+  xy: 1, 1
+  size: 38, 167
+  orig: 38, 167
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 1, 65
+  size: 395, 576
+  orig: 395, 576
+  offset: 0, 0
+  index: -1
+face_100
+  rotate: false
+  xy: 579, 113
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_110
+  rotate: false
+  xy: 776, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

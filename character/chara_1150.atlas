@@ -1,0 +1,27 @@
+
+chara_1150.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 638, 1487
+  size: 71, 214
+  orig: 71, 214
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 1, 1
+  size: 635, 846
+  orig: 635, 846
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1, 849
+  size: 635, 852
+  orig: 635, 852
+  offset: 0, 0
+  index: -1

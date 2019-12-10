@@ -1,0 +1,89 @@
+{
+"skeleton": { "hash": "Z6cA6w7mCkSdtPADxbVCINNgdX8", "spine": "3.0.12", "width": 512, "height": 512, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "MAIN", "parent": "root", "y": 54.99 }
+],
+"slots": [
+	{ "name": "MAIN", "bone": "MAIN", "attachment": "idle_00" }
+],
+"skins": {
+	"default": {
+		"MAIN": {
+			"idle_00": { "x": 4.54, "width": 512, "height": 512 },
+			"idle_01": { "x": 4.54, "width": 512, "height": 512 },
+			"idle_02": { "x": 4.54, "width": 512, "height": 512 },
+			"idle_03": { "x": 4.54, "width": 512, "height": 512 },
+			"idle_04": { "x": 4.54, "width": 512, "height": 512 },
+			"pulloff_00": { "x": 4.54, "width": 512, "height": 512 },
+			"pulloff_01": { "x": 4.54, "width": 512, "height": 512 },
+			"pulloff_02": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_00": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_01": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_02": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_03": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_04": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_05": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_06": { "x": 4.54, "width": 512, "height": 512 },
+			"throw_07": { "x": 4.54, "width": 512, "height": 512 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"MAIN": {
+				"attachment": [
+					{ "time": 0, "name": "idle_00" },
+					{ "time": 0.2, "name": "idle_01" },
+					{ "time": 0.4, "name": "idle_02" },
+					{ "time": 0.6, "name": "idle_03" },
+					{ "time": 0.8, "name": "idle_04" },
+					{ "time": 1, "name": "idle_00" }
+				]
+			}
+		}
+	},
+	"throw": {
+		"slots": {
+			"MAIN": {
+				"attachment": [
+					{ "time": 0, "name": "pulloff_00" },
+					{ "time": 0.1666, "name": "pulloff_00" },
+					{ "time": 0.2, "name": "pulloff_01" },
+					{ "time": 0.3, "name": "pulloff_02" },
+					{ "time": 0.5333, "name": "throw_00" },
+					{ "time": 0.6, "name": "throw_01" },
+					{ "time": 0.6666, "name": "throw_02" },
+					{ "time": 0.7666, "name": "throw_03" },
+					{ "time": 0.8, "name": "throw_04" },
+					{ "time": 0.8333, "name": "throw_05" },
+					{ "time": 0.9666, "name": "throw_06" },
+					{ "time": 1.0666, "name": "throw_07" }
+				]
+			}
+		},
+		"bones": {
+			"MAIN": {
+				"translate": [
+					{ "time": 0, "x": 6.94, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 6.94, "y": 0 },
+					{ "time": 0.2, "x": 69.67, "y": 0 },
+					{ "time": 0.4666, "x": 79.15, "y": 0, "curve": "stepped" },
+					{ "time": 0.6, "x": 99.42, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 85.43, "y": 0 },
+					{ "time": 0.7666, "x": 69.42, "y": 0, "curve": "stepped" },
+					{ "time": 0.8, "x": 61.77, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"x": 15.77,
+						"y": 0,
+						"curve": [ 0.145, 0.4, 0.75, 1 ]
+					},
+					{ "time": 1.0666, "x": 9.02, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

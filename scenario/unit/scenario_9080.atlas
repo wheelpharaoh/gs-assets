@@ -1,0 +1,20 @@
+
+scenario_9080.png
+size: 128,64
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+rock_flame
+  rotate: false
+  xy: 1, 1
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+rock_flame_adding
+  rotate: false
+  xy: 54, 1
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1

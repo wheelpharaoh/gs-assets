@@ -1,0 +1,90 @@
+
+scenario_9045.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Injury
+  rotate: false
+  xy: 196, 69
+  size: 90, 57
+  orig: 200, 200
+  offset: 64, 56
+  index: -1
+front2_00
+  rotate: false
+  xy: 414, 70
+  size: 61, 56
+  orig: 256, 256
+  offset: 101, 92
+  index: -1
+idle2_00
+  rotate: true
+  xy: 414, 30
+  size: 39, 71
+  orig: 200, 200
+  offset: 92, 57
+  index: -1
+idle2_01
+  rotate: true
+  xy: 290, 17
+  size: 37, 72
+  orig: 200, 200
+  offset: 94, 57
+  index: -1
+idle2_02
+  rotate: true
+  xy: 217, 15
+  size: 39, 72
+  orig: 200, 200
+  offset: 93, 57
+  index: -1
+idle2_03
+  rotate: true
+  xy: 145, 14
+  size: 40, 71
+  orig: 200, 200
+  offset: 92, 57
+  index: -1
+idle_00
+  rotate: false
+  xy: 100, 55
+  size: 95, 71
+  orig: 200, 200
+  offset: 49, 57
+  index: -1
+weapon_off_00
+  rotate: false
+  xy: 1, 55
+  size: 98, 71
+  orig: 200, 200
+  offset: 47, 57
+  index: -1
+weapon_off_01
+  rotate: false
+  xy: 287, 55
+  size: 73, 71
+  orig: 200, 200
+  offset: 84, 57
+  index: -1
+weapon_off_02
+  rotate: true
+  xy: 1, 1
+  size: 53, 71
+  orig: 200, 200
+  offset: 94, 57
+  index: -1
+weapon_off_03
+  rotate: false
+  xy: 361, 55
+  size: 52, 71
+  orig: 200, 200
+  offset: 94, 57
+  index: -1
+weapon_off_04
+  rotate: true
+  xy: 73, 2
+  size: 52, 71
+  orig: 200, 200
+  offset: 93, 57
+  index: -1

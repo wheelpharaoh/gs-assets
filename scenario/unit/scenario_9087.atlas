@@ -1,0 +1,62 @@
+
+scenario_9087.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CO_HIT_000/VBHT_Slash20000
+  rotate: true
+  xy: 374, 238
+  size: 129, 130
+  orig: 512, 512
+  offset: 192, 191
+  index: -1
+CO_HIT_000/VBHT_Slash20001
+  rotate: false
+  xy: 374, 368
+  size: 135, 133
+  orig: 512, 512
+  offset: 186, 191
+  index: -1
+CO_HIT_000/VBHT_Slash20002
+  rotate: false
+  xy: 349, 12
+  size: 146, 147
+  orig: 512, 512
+  offset: 178, 184
+  index: -1
+CO_HIT_000/VBHT_Slash20003
+  rotate: true
+  xy: 186, 1
+  size: 158, 162
+  orig: 512, 512
+  offset: 171, 177
+  index: -1
+CO_HIT_000/VBHT_Slash20004
+  rotate: false
+  xy: 202, 325
+  size: 171, 176
+  orig: 512, 512
+  offset: 163, 170
+  index: -1
+CO_HIT_000/VBHT_Slash20005
+  rotate: false
+  xy: 1, 112
+  size: 184, 190
+  orig: 512, 512
+  offset: 155, 164
+  index: -1
+CO_HIT_000/VBHT_Slash20007
+  rotate: false
+  xy: 202, 160
+  size: 170, 164
+  orig: 512, 512
+  offset: 176, 176
+  index: -1
+CO_HIT_000/VBHT_Slash20009
+  rotate: false
+  xy: 1, 303
+  size: 200, 198
+  orig: 512, 512
+  offset: 162, 158
+  index: -1

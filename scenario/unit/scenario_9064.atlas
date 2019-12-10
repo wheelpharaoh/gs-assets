@@ -1,0 +1,293 @@
+
+scenario_9064.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Link_00
+  rotate: false
+  xy: 694, 52
+  size: 77, 75
+  orig: 256, 256
+  offset: 87, 83
+  index: -1
+Link_01
+  rotate: true
+  xy: 1405, 73
+  size: 54, 72
+  orig: 256, 256
+  offset: 101, 90
+  index: -1
+attack1_00
+  rotate: false
+  xy: 1478, 74
+  size: 69, 53
+  orig: 256, 256
+  offset: 93, 91
+  index: -1
+attack1_01
+  rotate: false
+  xy: 1, 34
+  size: 81, 93
+  orig: 256, 256
+  offset: 69, 91
+  index: -1
+attack1_02
+  rotate: false
+  xy: 83, 35
+  size: 75, 92
+  orig: 256, 256
+  offset: 67, 91
+  index: -1
+attack1_03
+  rotate: false
+  xy: 382, 1
+  size: 54, 76
+  orig: 256, 256
+  offset: 87, 91
+  index: -1
+attack1_04
+  rotate: true
+  xy: 1010, 59
+  size: 68, 71
+  orig: 256, 256
+  offset: 89, 91
+  index: -1
+attack1_05
+  rotate: false
+  xy: 850, 1
+  size: 60, 61
+  orig: 256, 256
+  offset: 94, 91
+  index: -1
+attack1_06
+  rotate: true
+  xy: 1548, 72
+  size: 55, 64
+  orig: 256, 256
+  offset: 90, 90
+  index: -1
+attack1_08
+  rotate: true
+  xy: 1548, 72
+  size: 55, 64
+  orig: 256, 256
+  offset: 90, 90
+  index: -1
+attack1_07
+  rotate: false
+  xy: 1006, 1
+  size: 57, 57
+  orig: 256, 256
+  offset: 90, 90
+  index: -1
+attack1_09
+  rotate: false
+  xy: 1186, 26
+  size: 55, 58
+  orig: 256, 256
+  offset: 104, 90
+  index: -1
+attack1_10
+  rotate: false
+  xy: 1891, 80
+  size: 62, 47
+  orig: 256, 256
+  offset: 104, 90
+  index: -1
+back_00
+  rotate: false
+  xy: 1130, 3
+  size: 55, 59
+  orig: 256, 256
+  offset: 99, 90
+  index: -1
+damage_00
+  rotate: true
+  xy: 850, 63
+  size: 64, 83
+  orig: 256, 256
+  offset: 100, 90
+  index: -1
+front_00
+  rotate: false
+  xy: 694, 2
+  size: 81, 49
+  orig: 256, 256
+  offset: 94, 95
+  index: -1
+idle2_00
+  rotate: true
+  xy: 776, 6
+  size: 46, 65
+  orig: 256, 256
+  offset: 105, 89
+  index: -1
+idle_00
+  rotate: true
+  xy: 225, 1
+  size: 69, 64
+  orig: 256, 256
+  offset: 83, 90
+  index: -1
+idle_01
+  rotate: true
+  xy: 159, 1
+  size: 69, 65
+  orig: 256, 256
+  offset: 83, 90
+  index: -1
+idle_02
+  rotate: false
+  xy: 1082, 63
+  size: 71, 64
+  orig: 256, 256
+  offset: 81, 90
+  index: -1
+idle_03
+  rotate: false
+  xy: 934, 1
+  size: 71, 63
+  orig: 256, 256
+  offset: 81, 90
+  index: -1
+kneel_00
+  rotate: false
+  xy: 1154, 85
+  size: 89, 42
+  orig: 256, 256
+  offset: 75, 86
+  index: -1
+skill1_00
+  rotate: true
+  xy: 437, 1
+  size: 66, 82
+  orig: 256, 256
+  offset: 95, 90
+  index: -1
+skill1_01
+  rotate: true
+  xy: 1613, 71
+  size: 56, 64
+  orig: 256, 256
+  offset: 101, 90
+  index: -1
+skill1_02
+  rotate: false
+  xy: 1331, 69
+  size: 73, 58
+  orig: 256, 256
+  offset: 80, 90
+  index: -1
+skill1_03
+  rotate: false
+  xy: 1743, 81
+  size: 71, 46
+  orig: 256, 256
+  offset: 91, 98
+  index: -1
+skill1_04
+  rotate: true
+  xy: 1954, 72
+  size: 55, 62
+  orig: 256, 256
+  offset: 100, 90
+  index: -1
+skill1_05
+  rotate: true
+  xy: 1082, 1
+  size: 61, 47
+  orig: 256, 256
+  offset: 100, 90
+  index: -1
+skill1_06
+  rotate: true
+  xy: 290, 6
+  size: 65, 91
+  orig: 256, 256
+  offset: 87, 89
+  index: -1
+skill1_07
+  rotate: false
+  xy: 934, 65
+  size: 75, 62
+  orig: 256, 256
+  offset: 87, 90
+  index: -1
+skill1_08
+  rotate: false
+  xy: 616, 1
+  size: 77, 62
+  orig: 256, 256
+  offset: 85, 90
+  index: -1
+skill2_00
+  rotate: true
+  xy: 772, 53
+  size: 74, 77
+  orig: 256, 256
+  offset: 87, 90
+  index: -1
+skill2_01
+  rotate: true
+  xy: 520, 1
+  size: 62, 95
+  orig: 256, 256
+  offset: 100, 90
+  index: -1
+skill2_02
+  rotate: false
+  xy: 1244, 82
+  size: 86, 45
+  orig: 256, 256
+  offset: 92, 93
+  index: -1
+skill2_03
+  rotate: false
+  xy: 159, 71
+  size: 109, 56
+  orig: 256, 256
+  offset: 47, 90
+  index: -1
+skill2_04
+  rotate: false
+  xy: 491, 68
+  size: 101, 59
+  orig: 256, 256
+  offset: 47, 90
+  index: -1
+skill2_05
+  rotate: false
+  xy: 593, 64
+  size: 100, 63
+  orig: 256, 256
+  offset: 47, 90
+  index: -1
+skill3_00
+  rotate: true
+  xy: 1815, 88
+  size: 39, 75
+  orig: 256, 256
+  offset: 109, 90
+  index: -1
+skill3_01
+  rotate: true
+  xy: 269, 72
+  size: 55, 110
+  orig: 256, 256
+  offset: 94, 90
+  index: -1
+skill3_02
+  rotate: true
+  xy: 380, 78
+  size: 49, 110
+  orig: 256, 256
+  offset: 100, 90
+  index: -1
+standup_00
+  rotate: true
+  xy: 1678, 64
+  size: 63, 64
+  orig: 256, 256
+  offset: 86, 86
+  index: -1

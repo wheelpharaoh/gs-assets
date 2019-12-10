@@ -1,0 +1,111 @@
+
+scenario_9038.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_fire_00
+  rotate: false
+  xy: 722, 97
+  size: 9, 30
+  orig: 256, 256
+  offset: 99, 117
+  index: -1
+ef_fire_01
+  rotate: false
+  xy: 1, 18
+  size: 13, 26
+  orig: 256, 256
+  offset: 95, 141
+  index: -1
+ef_fire_02
+  rotate: false
+  xy: 745, 110
+  size: 14, 17
+  orig: 256, 256
+  offset: 94, 143
+  index: -1
+ef_fire_03
+  rotate: false
+  xy: 15, 20
+  size: 12, 24
+  orig: 256, 256
+  offset: 94, 140
+  index: -1
+ef_fire_04
+  rotate: false
+  xy: 732, 101
+  size: 12, 26
+  orig: 256, 256
+  offset: 96, 139
+  index: -1
+fire_00
+  rotate: false
+  xy: 1, 45
+  size: 78, 82
+  orig: 256, 256
+  offset: 98, 89
+  index: -1
+fire_01
+  rotate: false
+  xy: 80, 45
+  size: 78, 82
+  orig: 256, 256
+  offset: 98, 88
+  index: -1
+fire_02
+  rotate: false
+  xy: 159, 45
+  size: 78, 82
+  orig: 256, 256
+  offset: 98, 88
+  index: -1
+fire_03
+  rotate: false
+  xy: 238, 45
+  size: 78, 82
+  orig: 256, 256
+  offset: 98, 88
+  index: -1
+idle_00
+  rotate: false
+  xy: 317, 45
+  size: 77, 82
+  orig: 256, 256
+  offset: 99, 88
+  index: -1
+idle_01
+  rotate: false
+  xy: 395, 45
+  size: 77, 82
+  orig: 256, 256
+  offset: 99, 88
+  index: -1
+idle_02
+  rotate: false
+  xy: 473, 45
+  size: 77, 82
+  orig: 256, 256
+  offset: 99, 88
+  index: -1
+idle_03
+  rotate: false
+  xy: 551, 45
+  size: 77, 82
+  orig: 256, 256
+  offset: 99, 89
+  index: -1
+weapon_off_00
+  rotate: true
+  xy: 629, 61
+  size: 66, 92
+  orig: 256, 256
+  offset: 101, 86
+  index: -1
+weapon_off_01
+  rotate: true
+  xy: 629, 1
+  size: 59, 92
+  orig: 256, 256
+  offset: 106, 86
+  index: -1

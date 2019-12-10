@@ -1,0 +1,451 @@
+{
+"skeleton": { "hash": "0VGz2uKVb9UHSDndD8sdc3JJksU", "spine": "3.0.12", "width": 393, "height": 315, "images": "./imagese2/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "atacck_EF", "parent": "root", "x": -8.79, "y": 56.28 },
+	{ "name": "S2_fire2_2", "parent": "root", "x": -433.47, "y": -46.03, "scaleX": 2, "scaleY": 2 },
+	{ "name": "S2_fire2", "parent": "root", "x": -331.83, "y": -46.03, "scaleX": 2, "scaleY": 2 },
+	{ "name": "S1_spin1", "parent": "root", "x": 286.1, "y": -11.17, "scaleX": 2, "scaleY": 2 },
+	{ "name": "S1_shock1_3", "parent": "root", "x": 141.42, "y": -372.53, "scaleX": 2, "scaleY": 2 },
+	{ "name": "S1_shock1_2", "parent": "root", "x": 141.42, "y": -206.53, "scaleX": 2, "scaleY": 2 },
+	{ "name": "S1_shock1", "parent": "root", "x": 141.42, "y": -42.1, "scaleX": 2, "scaleY": 2 },
+	{ "name": "S1_fire1", "parent": "root", "x": -173.14, "y": -44.62, "scaleX": 2, "scaleY": 2 },
+	{ "name": "MAIN", "parent": "root", "y": 45.77 },
+	{ "name": "SHADOW-OFFSET", "parent": "MAIN", "y": -41.64, "scaleX": 1.5 },
+	{ "name": "HITBOX", "parent": "MAIN", "y": -10.67, "scaleX": 1.192, "scaleY": 0.751 },
+	{ "name": "EF", "parent": "root", "y": 50.78 },
+	{ "name": "S1_wave1_2", "parent": "EF", "y": -179.16 },
+	{ "name": "S1_wave1", "parent": "EF", "y": -92.71 },
+	{ "name": "DAMAGEAREA", "parent": "root" }
+],
+"slots": [
+	{ "name": "S1_wave1", "bone": "S1_wave1", "blend": "additive" },
+	{ "name": "S1_wave1_2", "bone": "S1_wave1_2", "blend": "additive" },
+	{ "name": "MAIN", "bone": "MAIN", "attachment": "idle_00" },
+	{ "name": "DAMAGEAREA", "bone": "DAMAGEAREA", "blend": "additive" },
+	{ "name": "HITBOX", "bone": "HITBOX", "attachment": "HITBOX" },
+	{ "name": "EF/atacck_EF", "bone": "atacck_EF", "color": "ff2612ff", "blend": "additive" },
+	{ "name": "S1_shock1", "bone": "S1_shock1", "blend": "additive" },
+	{ "name": "S1_shock1_2", "bone": "S1_shock1_2", "blend": "additive" },
+	{ "name": "S1_shock1_3", "bone": "S1_shock1_3", "blend": "additive" },
+	{ "name": "S1_spin1", "bone": "S1_spin1", "blend": "additive" },
+	{ "name": "S2_fire2", "bone": "S2_fire2", "blend": "additive" },
+	{ "name": "S2_fire2_2", "bone": "S2_fire2_2", "blend": "additive" },
+	{ "name": "S2_fire1", "bone": "S1_fire1", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"DAMAGEAREA": {
+			"DAMAGEAREA": {
+				"type": "boundingbox",
+				"vertices": [ -32.9986, -33.14305, 31.49737, -32.67905, 32.42533, 30.88891, -32.53461, 30.42492 ]
+			}
+		},
+		"EF/atacck_EF": {
+			"EF/skill1_EF": { "x": 3.64, "y": -5.97, "scaleX": 2, "scaleY": 2, "width": 192, "height": 144 }
+		},
+		"HITBOX": {
+			"HITBOX": {
+				"type": "boundingbox",
+				"vertices": [ -42.81111, -41.23804, 39.80772, -41.14905, 39.80773, 35.82688, -42.72218, 36.57487 ]
+			}
+		},
+		"MAIN": {
+			"back_00": { "y": -3.2, "width": 510, "height": 288 },
+			"idle_00": { "y": -3.2, "width": 393, "height": 315 },
+			"idle_01": { "y": -3.2, "width": 393, "height": 315 },
+			"idle_02": { "y": -3.2, "width": 393, "height": 315 },
+			"skill1_2": { "y": -3.2, "width": 331, "height": 305 },
+			"skill1_3": { "y": -3.2, "width": 331, "height": 305 }
+		},
+		"S1_shock1": {
+			"EF/200_S1_shock1/200_S1_shock1_00038": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00040": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00041": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00042": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00043": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00044": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00046": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00047": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 }
+		},
+		"S1_shock1_2": {
+			"EF/200_S1_shock1/200_S1_shock1_00038": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00040": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00041": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00042": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00043": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00044": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00046": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00047": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 }
+		},
+		"S1_shock1_3": {
+			"EF/200_S1_shock1/200_S1_shock1_00038": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00040": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00041": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00042": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00043": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00044": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00046": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 },
+			"EF/200_S1_shock1/200_S1_shock1_00047": { "x": -13.78, "y": 18.29, "width": 360, "height": 360 }
+		},
+		"S1_spin1": {
+			"EF/200_S1_spin1/200_S1_spin1_00038": { "x": 2.77, "y": 11.17, "width": 270, "height": 270 },
+			"EF/200_S1_spin1/200_S1_spin1_00039": { "x": 2.77, "y": 11.17, "width": 270, "height": 270 },
+			"EF/200_S1_spin1/200_S1_spin1_00040": { "x": 2.77, "y": 11.17, "width": 270, "height": 270 },
+			"EF/200_S1_spin1/200_S1_spin1_00041": { "x": 2.77, "y": 11.17, "width": 270, "height": 270 }
+		},
+		"S1_wave1": {
+			"EF/200_S1_wave1/03_fire_00042": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00043": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00044": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00045": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00046": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00047": { "y": 15.31, "width": 270, "height": 270 }
+		},
+		"S1_wave1_2": {
+			"EF/200_S1_wave1/03_fire_00042": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00043": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00044": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00045": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00046": { "y": 15.31, "width": 270, "height": 270 },
+			"EF/200_S1_wave1/03_fire_00047": { "y": 15.31, "width": 270, "height": 270 }
+		}
+	}
+},
+"events": {
+	"Event": {},
+	"Event2": { "string": "kImpactType_knock" },
+	"Event3": { "float": 0.15, "string": "kHitStopType_normal" },
+	"Hit": {},
+	"Sound": {},
+	"Sound_2": {},
+	"Sound_3": {},
+	"Voice": {}
+},
+"animations": {
+	"attack1": {
+		"slots": {
+			"DAMAGEAREA": {
+				"attachment": [
+					{ "time": 1.2, "name": null },
+					{ "time": 1.3, "name": "DAMAGEAREA" },
+					{ "time": 1.5333, "name": null }
+				]
+			},
+			"EF/atacck_EF": {
+				"attachment": [
+					{ "time": 0.9, "name": "EF/skill1_EF" },
+					{ "time": 1.9666, "name": null }
+				]
+			},
+			"MAIN": {
+				"attachment": [
+					{ "time": 0.0666, "name": "back_00" },
+					{ "time": 0.2666, "name": "idle_01" },
+					{ "time": 0.4666, "name": "idle_00" },
+					{ "time": 0.7333, "name": "idle_02" },
+					{ "time": 0.7666, "name": "skill1_2" },
+					{ "time": 0.9, "name": "skill1_3" },
+					{ "time": 1.9666, "name": "idle_01" },
+					{ "time": 2.2, "name": "skill1_2" }
+				],
+				"color": [
+					{ "time": 2.5333, "color": "ffffffff" },
+					{ "time": 2.8666, "color": "ffffff00" }
+				]
+			},
+			"S1_shock1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "EF/200_S1_shock1/200_S1_shock1_00038" },
+					{ "time": 0.8, "name": "EF/200_S1_shock1/200_S1_shock1_00040" },
+					{ "time": 0.8333, "name": "EF/200_S1_shock1/200_S1_shock1_00041" },
+					{ "time": 0.8666, "name": "EF/200_S1_shock1/200_S1_shock1_00042" },
+					{ "time": 0.9, "name": "EF/200_S1_shock1/200_S1_shock1_00043" },
+					{ "time": 0.9333, "name": "EF/200_S1_shock1/200_S1_shock1_00044" },
+					{ "time": 0.9666, "name": "EF/200_S1_shock1/200_S1_shock1_00046" },
+					{ "time": 1, "name": "EF/200_S1_shock1/200_S1_shock1_00047" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"S1_shock1_2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2666, "name": "EF/200_S1_shock1/200_S1_shock1_00038" },
+					{ "time": 1.3333, "name": "EF/200_S1_shock1/200_S1_shock1_00040" },
+					{ "time": 1.3666, "name": "EF/200_S1_shock1/200_S1_shock1_00041" },
+					{ "time": 1.4, "name": "EF/200_S1_shock1/200_S1_shock1_00042" },
+					{ "time": 1.4333, "name": "EF/200_S1_shock1/200_S1_shock1_00043" },
+					{ "time": 1.4666, "name": "EF/200_S1_shock1/200_S1_shock1_00044" },
+					{ "time": 1.5333, "name": "EF/200_S1_shock1/200_S1_shock1_00046" },
+					{ "time": 1.5666, "name": "EF/200_S1_shock1/200_S1_shock1_00047" },
+					{ "time": 1.6666, "name": null }
+				],
+				"color": [
+					{ "time": 1.2666, "color": "ffffffd8" }
+				]
+			},
+			"S1_shock1_3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.3666, "name": "EF/200_S1_shock1/200_S1_shock1_00038" },
+					{ "time": 1.4333, "name": "EF/200_S1_shock1/200_S1_shock1_00040" },
+					{ "time": 1.4666, "name": "EF/200_S1_shock1/200_S1_shock1_00041" },
+					{ "time": 1.5333, "name": "EF/200_S1_shock1/200_S1_shock1_00046" },
+					{ "time": 1.5666, "name": "EF/200_S1_shock1/200_S1_shock1_00047" },
+					{ "time": 1.6666, "name": null }
+				],
+				"color": [
+					{ "time": 1.3666, "color": "ffffffd4" }
+				]
+			},
+			"S1_spin1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9666, "name": "EF/200_S1_spin1/200_S1_spin1_00038" },
+					{ "time": 1, "name": "EF/200_S1_spin1/200_S1_spin1_00039" },
+					{ "time": 1.0333, "name": "EF/200_S1_spin1/200_S1_spin1_00040" },
+					{ "time": 1.0666, "name": "EF/200_S1_spin1/200_S1_spin1_00041" },
+					{ "time": 1.1, "name": "EF/200_S1_spin1/200_S1_spin1_00038" },
+					{ "time": 1.1333, "name": "EF/200_S1_spin1/200_S1_spin1_00039" },
+					{ "time": 1.1666, "name": "EF/200_S1_spin1/200_S1_spin1_00040" },
+					{ "time": 1.2, "name": "EF/200_S1_spin1/200_S1_spin1_00041" },
+					{ "time": 1.2333, "name": "EF/200_S1_spin1/200_S1_spin1_00038" },
+					{ "time": 1.2666, "name": "EF/200_S1_spin1/200_S1_spin1_00039" },
+					{ "time": 1.3, "name": "EF/200_S1_spin1/200_S1_spin1_00040" },
+					{ "time": 1.3333, "name": "EF/200_S1_spin1/200_S1_spin1_00041" },
+					{ "time": 1.3666, "name": "EF/200_S1_spin1/200_S1_spin1_00038" },
+					{ "time": 1.4, "name": "EF/200_S1_spin1/200_S1_spin1_00039" },
+					{ "time": 1.4333, "name": null }
+				]
+			},
+			"S1_wave1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "EF/200_S1_wave1/03_fire_00042" },
+					{ "time": 0.8666, "name": "EF/200_S1_wave1/03_fire_00043" },
+					{ "time": 0.9, "name": "EF/200_S1_wave1/03_fire_00044" },
+					{ "time": 0.9333, "name": "EF/200_S1_wave1/03_fire_00045" },
+					{ "time": 0.9666, "name": "EF/200_S1_wave1/03_fire_00046" },
+					{ "time": 1, "name": "EF/200_S1_wave1/03_fire_00047" },
+					{ "time": 1.0333, "name": null }
+				]
+			},
+			"S1_wave1_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"S2_fire1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"S2_fire2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"S2_fire2_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"DAMAGEAREA": {
+				"translate": [
+					{ "time": 1, "x": -29.35, "y": 166.98, "curve": "stepped" },
+					{ "time": 1.3, "x": -175.78, "y": 38.54 },
+					{ "time": 1.5, "x": -316.4, "y": 38.54 }
+				],
+				"scale": [
+					{ "time": 1, "x": 2.926, "y": 1.917, "curve": "stepped" },
+					{ "time": 1.3, "x": 4.947, "y": 2.147 },
+					{ "time": 1.5, "x": 6.624, "y": 2.147 }
+				]
+			},
+			"atacck_EF": {
+				"translate": [
+					{ "time": 0.9, "x": 20.06, "y": 148.71 },
+					{ "time": 1.1, "x": -18.7, "y": 178.92, "curve": "stepped" },
+					{ "time": 1.2333, "x": 4.57, "y": 163.31 },
+					{ "time": 1.3333, "x": -138.09, "y": -2.95, "curve": "stepped" },
+					{ "time": 1.4666, "x": -210.09, "y": 70.22 },
+					{ "time": 1.8, "x": -214.81, "y": 65.5 },
+					{ "time": 1.9333, "x": -246.21, "y": 2.71 }
+				]
+			},
+			"MAIN": {
+				"rotate": [
+					{ "time": 0.7666, "angle": -23.66, "curve": "stepped" },
+					{ "time": 0.9, "angle": 179.67, "curve": "stepped" },
+					{ "time": 0.9333, "angle": -65.22, "curve": "stepped" },
+					{ "time": 1, "angle": 98.17, "curve": "stepped" },
+					{ "time": 1.0666, "angle": -169.06, "curve": "stepped" },
+					{ "time": 1.1333, "angle": -88.44, "curve": "stepped" },
+					{ "time": 1.2, "angle": 9.1, "curve": "stepped" },
+					{ "time": 1.2666, "angle": -90.45, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 92.8, "curve": "stepped" },
+					{ "time": 1.4, "angle": -149.08, "curve": "stepped" },
+					{ "time": 1.5333, "angle": -83.9, "curve": "stepped" },
+					{ "time": 1.6, "angle": -15.52, "curve": "stepped" },
+					{ "time": 1.6666, "angle": 52.85, "curve": "stepped" },
+					{ "time": 1.7333, "angle": 124.53, "curve": "stepped" },
+					{ "time": 1.8, "angle": 13.43, "curve": "stepped" },
+					{ "time": 1.9666, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 877.67,
+						"y": 0,
+						"curve": [ 0.03, 0.9, 0.75, 1 ]
+					},
+					{ "time": 0.4666, "x": 107.56, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.7333,
+						"x": 100.61,
+						"y": 0,
+						"curve": [ 0.265, 0.36, 0.602, 0.69 ]
+					},
+					{
+						"time": 0.7666,
+						"x": 110.31,
+						"y": 80.81,
+						"curve": [ 0.216, 0.86, 0.76, 1 ]
+					},
+					{ "time": 1.1, "x": -24.63, "y": 186.2 },
+					{ "time": 1.2333, "x": -6.34, "y": 186.2 },
+					{ "time": 1.3333, "x": -156.27, "y": 6.82, "curve": "stepped" },
+					{
+						"time": 1.4666,
+						"x": -206.74,
+						"y": 74.41,
+						"curve": [ 0.235, 0.88, 0.75, 1 ]
+					},
+					{ "time": 1.8, "x": -231.22, "y": 80.57 },
+					{
+						"time": 1.9666,
+						"x": -278.37,
+						"y": 0,
+						"curve": [ 0.17, 0.76, 0.655, 0.96 ]
+					},
+					{
+						"time": 2.1666,
+						"x": -292.99,
+						"y": 0,
+						"curve": [ 0.362, 0.74, 0.7, 1 ]
+					},
+					{
+						"time": 2.2,
+						"x": -293.16,
+						"y": 27.67,
+						"curve": [ 0.035, 0.64, 0.75, 1 ]
+					},
+					{ "time": 2.8666, "x": -806.93, "y": 33.28 }
+				]
+			},
+			"S1_wave1": {
+				"translate": [
+					{ "time": 0.7666, "x": 99.46, "y": 43.31 }
+				],
+				"scale": [
+					{ "time": 0.7666, "x": 0.747, "y": 0.747 },
+					{ "time": 0.8333, "x": 2.575, "y": 2.575 }
+				]
+			},
+			"HITBOX": {
+				"rotate": [
+					{ "time": 0.9333, "angle": 245.04 },
+					{ "time": 2.2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.9, "x": -0.23, "y": 83.29 },
+					{ "time": 2.2, "x": -0.27, "y": 0.1 }
+				]
+			},
+			"SHADOW-OFFSET": {
+				"rotate": [
+					{ "time": 0.9333, "angle": 245.04 },
+					{ "time": 2.2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.9, "x": -0.23, "y": 83.29 },
+					{ "time": 2.2, "x": -0.27, "y": 0.1 }
+				]
+			},
+			"S1_shock1_3": {
+				"translate": [
+					{ "time": 1.3666, "x": -418.22, "y": 374.97 }
+				],
+				"scale": [
+					{ "time": 1.3666, "x": 2, "y": 2 }
+				]
+			},
+			"S1_shock1_2": {
+				"translate": [
+					{ "time": 1.2666, "x": -309.95, "y": 208.69 }
+				],
+				"scale": [
+					{ "time": 1.2666, "x": 1.75, "y": 1.75 }
+				]
+			},
+			"S1_spin1": {
+				"translate": [
+					{ "time": 0.9666, "x": -290.2, "y": 230.4 },
+					{ "time": 1.2333, "x": -298.45, "y": 245.48 },
+					{ "time": 1.2666, "x": -346.27, "y": 176.93 },
+					{ "time": 1.3333, "x": -472.78, "y": 65.37 }
+				],
+				"scale": [
+					{ "time": 0.9666, "x": 1.25, "y": 1.25 }
+				]
+			},
+			"S1_shock1": {
+				"translate": [
+					{ "time": 0.7666, "x": 10.54, "y": 48.22 }
+				],
+				"scale": [
+					{ "time": 0.7666, "x": -0.655, "y": 0.655 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Event", "float": 0.1, "string": "kHitStopType_normal" },
+			{ "time": 0, "name": "Sound", "string": "cri_se_battle_step" },
+			{ "time": 0.7666, "name": "Sound", "string": "cri_se_battle_jump" },
+			{ "time": 0.7666, "name": "Voice", "string": "cri_011_voice_skill" },
+			{ "time": 0.9, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1, "name": "Sound_3", "string": "setHitSound(se_battle_hard_hit)" },
+			{ "time": 1.0333, "name": "Sound_3", "string": "setHitSound(empty)" },
+			{ "time": 1.0666, "name": "Sound_3", "string": "setHitSound(se_battle_hard_hit)" },
+			{ "time": 1.1, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1.1, "name": "Sound_3", "string": "setHitSound(empty)" },
+			{ "time": 1.2, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1.3, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1.3, "name": "Sound_2", "string": "cri_se_battle_033_explosion_element_01" },
+			{ "time": 1.3, "name": "Sound_3", "string": "setHitSound(se_battle_hard_hit)" },
+			{ "time": 1.3333, "name": "Hit", "string": "resetHitList" },
+			{ "time": 1.3333, "name": "Sound_3", "string": "setHitSound(empty)" },
+			{ "time": 1.3666, "name": "Hit", "string": "resetHitList" },
+			{ "time": 1.3666, "name": "Sound_3", "string": "setHitSound(se_battle_hard_hit)" },
+			{ "time": 1.4, "name": "Hit", "string": "resetHitList" },
+			{ "time": 1.4, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1.4, "name": "Sound_3", "string": "setHitSound(empty)" },
+			{ "time": 1.4333, "name": "Hit", "string": "resetHitList" },
+			{ "time": 1.4333, "name": "Sound_3", "string": "setHitSound(se_battle_hard_hit)" },
+			{ "time": 1.4666, "name": "Hit", "string": "resetHitList" },
+			{ "time": 1.4666, "name": "Sound_3", "string": "setHitSound(empty)" },
+			{ "time": 1.5, "name": "Event", "int": 500, "string": "kImpactType_knock" },
+			{ "time": 1.5, "name": "Event2", "float": 0.15, "string": "kHitStopType_normal" },
+			{ "time": 1.5, "name": "Hit", "string": "resetHitList" },
+			{ "time": 1.5, "name": "Sound", "string": "cri_se_battle_monster_swish" },
+			{ "time": 1.5, "name": "Sound_3", "string": "setHitSound(se_battle_hard_hit)" },
+			{ "time": 2.1333, "name": "Sound_3", "string": "cri_se_battle_hard_hit" },
+			{ "time": 2.2, "name": "Sound", "string": "cri_se_battle_step" }
+		]
+	}
+}
+}

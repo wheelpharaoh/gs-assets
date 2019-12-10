@@ -1,0 +1,69 @@
+
+chara_1370.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 267, 30
+  size: 207, 31
+  orig: 207, 31
+  offset: 0, 0
+  index: -1
+100
+  rotate: false
+  xy: 267, 351
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+110
+  rotate: false
+  xy: 267, 204
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+120
+  rotate: true
+  xy: 267, 63
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+130
+  rotate: false
+  xy: 388, 351
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 264, 495
+  orig: 264, 495
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 267, 184
+  size: 18, 226
+  orig: 18, 226
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 388, 231
+  size: 112, 118
+  orig: 112, 118
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 414, 64
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1

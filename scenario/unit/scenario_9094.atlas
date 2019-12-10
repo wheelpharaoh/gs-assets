@@ -1,0 +1,181 @@
+
+scenario_9094.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/curtain/130_S2_shine1_00042
+  rotate: false
+  xy: 0, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00042_white
+  rotate: false
+  xy: 834, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00043
+  rotate: false
+  xy: 0, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00044
+  rotate: false
+  xy: 139, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00045
+  rotate: false
+  xy: 0, 53
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00046
+  rotate: false
+  xy: 139, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00047
+  rotate: false
+  xy: 278, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00048
+  rotate: false
+  xy: 0, 0
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00049
+  rotate: false
+  xy: 139, 53
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00050
+  rotate: false
+  xy: 278, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00051
+  rotate: false
+  xy: 417, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00052
+  rotate: false
+  xy: 139, 0
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00053
+  rotate: false
+  xy: 278, 53
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00054
+  rotate: false
+  xy: 417, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00055
+  rotate: false
+  xy: 556, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00056
+  rotate: false
+  xy: 278, 0
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00057
+  rotate: false
+  xy: 417, 53
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00058
+  rotate: false
+  xy: 556, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00059
+  rotate: false
+  xy: 695, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00060
+  rotate: false
+  xy: 417, 0
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00061
+  rotate: false
+  xy: 556, 53
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00062
+  rotate: false
+  xy: 695, 106
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00063
+  rotate: false
+  xy: 834, 159
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00064
+  rotate: false
+  xy: 556, 0
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1
+EF/curtain/130_S2_shine1_00065
+  rotate: false
+  xy: 695, 53
+  size: 138, 52
+  orig: 200, 200
+  offset: 31, 54
+  index: -1

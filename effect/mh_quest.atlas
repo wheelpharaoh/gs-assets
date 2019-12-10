@@ -1,0 +1,27 @@
+
+mh_quest.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clear_text_window
+  rotate: true
+  xy: 462, 0
+  size: 640, 73
+  orig: 640, 73
+  offset: 0, 0
+  index: -1
+clear_text_window_2
+  rotate: false
+  xy: 0, 110
+  size: 320, 67
+  orig: 320, 67
+  offset: 0, 0
+  index: -1
+quest_failed
+  rotate: false
+  xy: 0, 178
+  size: 461, 462
+  orig: 500, 500
+  offset: 19, 19
+  index: -1

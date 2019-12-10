@@ -1,0 +1,83 @@
+
+scenario_9083.png
+size: 2048,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+EF/shineA/PR_LB2_shine1_00005
+  rotate: false
+  xy: 805, 201
+  size: 199, 197
+  orig: 200, 200
+  offset: 1, 3
+  index: -1
+EF/shineA/PR_LB2_shine1_00007
+  rotate: false
+  xy: 202, 201
+  size: 200, 197
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+EF/shineA/PR_LB2_shine1_00009
+  rotate: false
+  xy: 1, 200
+  size: 200, 198
+  orig: 200, 200
+  offset: 0, 2
+  index: -1
+EF/shineA/PR_LB2_shine1_00011
+  rotate: false
+  xy: 1, 1
+  size: 200, 198
+  orig: 200, 200
+  offset: 0, 2
+  index: -1
+EF/shineA/PR_LB2_shine1_00013
+  rotate: false
+  xy: 202, 2
+  size: 199, 198
+  orig: 200, 200
+  offset: 1, 2
+  index: -1
+EF/shineA/PR_LB2_shine1_00015
+  rotate: false
+  xy: 402, 2
+  size: 199, 198
+  orig: 200, 200
+  offset: 1, 2
+  index: -1
+EF/shineA/PR_LB2_shine1_00017
+  rotate: false
+  xy: 602, 2
+  size: 199, 198
+  orig: 200, 200
+  offset: 1, 2
+  index: -1
+EF/shineA/PR_LB2_shine1_00019
+  rotate: false
+  xy: 802, 3
+  size: 199, 197
+  orig: 200, 200
+  offset: 1, 3
+  index: -1
+EF/shineA/PR_LB2_shine1_00021
+  rotate: false
+  xy: 403, 201
+  size: 200, 197
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+EF/shineA/PR_LB2_shine1_00023
+  rotate: false
+  xy: 604, 201
+  size: 200, 197
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+EF/sp
+  rotate: false
+  xy: 1005, 248
+  size: 150, 150
+  orig: 200, 180
+  offset: 25, 15
+  index: -1

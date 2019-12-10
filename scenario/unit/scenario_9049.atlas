@@ -1,0 +1,118 @@
+
+scenario_9049.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_00
+  rotate: false
+  xy: 1, 391
+  size: 226, 114
+  orig: 512, 512
+  offset: 122, 199
+  index: -1
+idle_01
+  rotate: false
+  xy: 1, 277
+  size: 226, 113
+  orig: 512, 512
+  offset: 123, 198
+  index: -1
+idle_02
+  rotate: false
+  xy: 1, 165
+  size: 224, 111
+  orig: 512, 512
+  offset: 124, 199
+  index: -1
+idle_03
+  rotate: false
+  xy: 228, 279
+  size: 223, 112
+  orig: 512, 512
+  offset: 123, 199
+  index: -1
+idle_04
+  rotate: false
+  xy: 228, 392
+  size: 225, 113
+  orig: 512, 512
+  offset: 123, 199
+  index: -1
+pulloff_00
+  rotate: false
+  xy: 615, 96
+  size: 133, 123
+  orig: 512, 512
+  offset: 194, 196
+  index: -1
+pulloff_01
+  rotate: false
+  xy: 454, 379
+  size: 178, 126
+  orig: 512, 512
+  offset: 150, 198
+  index: -1
+pulloff_02
+  rotate: true
+  xy: 616, 220
+  size: 151, 162
+  orig: 512, 512
+  offset: 187, 197
+  index: -1
+throw_00
+  rotate: true
+  xy: 452, 233
+  size: 145, 163
+  orig: 512, 512
+  offset: 224, 196
+  index: -1
+throw_01
+  rotate: false
+  xy: 1, 8
+  size: 171, 156
+  orig: 512, 512
+  offset: 200, 197
+  index: -1
+throw_02
+  rotate: false
+  xy: 633, 372
+  size: 174, 133
+  orig: 512, 512
+  offset: 211, 197
+  index: -1
+throw_03
+  rotate: false
+  xy: 808, 374
+  size: 168, 131
+  orig: 512, 512
+  offset: 209, 197
+  index: -1
+throw_04
+  rotate: true
+  xy: 173, 1
+  size: 163, 135
+  orig: 512, 512
+  offset: 198, 197
+  index: -1
+throw_05
+  rotate: true
+  xy: 309, 3
+  size: 162, 112
+  orig: 512, 512
+  offset: 180, 199
+  index: -1
+throw_06
+  rotate: false
+  xy: 452, 120
+  size: 162, 112
+  orig: 512, 512
+  offset: 182, 199
+  index: -1
+throw_07
+  rotate: false
+  xy: 309, 166
+  size: 142, 112
+  orig: 512, 512
+  offset: 188, 199
+  index: -1

@@ -1,0 +1,111 @@
+
+chara_1070.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 615, 156
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1, 76
+  size: 354, 64
+  orig: 354, 64
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1, 142
+  size: 441, 128
+  orig: 441, 128
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1, 272
+  size: 711, 225
+  orig: 711, 225
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1, 1
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 699, 262
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 142, 10
+  size: 143, 64
+  orig: 143, 64
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: true
+  xy: 444, 142
+  size: 128, 169
+  orig: 128, 169
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 714, 328
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: true
+  xy: 854, 359
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: true
+  xy: 854, 219
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+face_5
+  rotate: false
+  xy: 714, 157
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+face_6
+  rotate: true
+  xy: 854, 79
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+face_7
+  rotate: true
+  xy: 357, 2
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+face_8
+  rotate: true
+  xy: 528, 2
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+chara_1230.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+139
+  rotate: false
+  xy: 1, 1
+  size: 291, 378
+  orig: 291, 378
+  offset: 0, 0
+  index: -1
+153
+  rotate: false
+  xy: 294, 71
+  size: 108, 308
+  orig: 108, 308
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 404, 244
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 404, 107
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 539, 244
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: false
+  xy: 539, 107
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1

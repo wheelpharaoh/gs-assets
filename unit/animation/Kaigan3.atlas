@@ -1,0 +1,258 @@
+
+Kaigan3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_aura2/ef_MD_aura_00
+  rotate: false
+  xy: 1676, 236
+  size: 95, 107
+  orig: 250, 250
+  offset: 75, 84
+  index: -1
+EF_aura2/ef_MD_aura_01
+  rotate: false
+  xy: 1890, 247
+  size: 93, 104
+  orig: 250, 250
+  offset: 75, 82
+  index: -1
+EF_aura2/ef_MD_aura_02
+  rotate: false
+  xy: 884, 212
+  size: 93, 106
+  orig: 250, 250
+  offset: 76, 84
+  index: -1
+EF_aura2/ef_MD_aura_03
+  rotate: true
+  xy: 1146, 216
+  size: 89, 100
+  orig: 250, 250
+  offset: 78, 86
+  index: -1
+EF_aura2/ef_MD_aura_04
+  rotate: true
+  xy: 1247, 219
+  size: 86, 103
+  orig: 250, 250
+  offset: 79, 85
+  index: -1
+EF_aura2/ef_MD_aura_05
+  rotate: false
+  xy: 1963, 413
+  size: 84, 98
+  orig: 250, 250
+  offset: 76, 84
+  index: -1
+EF_aura2/ef_MD_aura_06
+  rotate: false
+  xy: 865, 116
+  size: 97, 95
+  orig: 250, 250
+  offset: 68, 82
+  index: -1
+EF_aura2/ef_MD_aura_07
+  rotate: false
+  xy: 978, 223
+  size: 97, 97
+  orig: 250, 250
+  offset: 69, 82
+  index: -1
+EF_aura2/ef_MD_aura_08
+  rotate: true
+  xy: 865, 24
+  size: 91, 94
+  orig: 250, 250
+  offset: 76, 84
+  index: -1
+ef_aura/ef_aura_00
+  rotate: false
+  xy: 1, 17
+  size: 80, 31
+  orig: 400, 400
+  offset: 155, 115
+  index: -1
+ef_aura/ef_aura_01
+  rotate: false
+  xy: 1558, 344
+  size: 190, 167
+  orig: 400, 400
+  offset: 106, 112
+  index: -1
+ef_aura/ef_aura_02
+  rotate: false
+  xy: 1355, 312
+  size: 202, 199
+  orig: 400, 400
+  offset: 101, 114
+  index: -1
+ef_aura/ef_aura_03
+  rotate: true
+  xy: 1147, 306
+  size: 205, 207
+  orig: 400, 400
+  offset: 99, 114
+  index: -1
+ef_aura/ef_aura_04
+  rotate: false
+  xy: 485, 300
+  size: 215, 211
+  orig: 400, 400
+  offset: 95, 113
+  index: -1
+ef_aura/ef_aura_05
+  rotate: false
+  xy: 1, 49
+  size: 222, 209
+  orig: 400, 400
+  offset: 94, 114
+  index: -1
+ef_aura/ef_aura_06
+  rotate: false
+  xy: 263, 301
+  size: 221, 210
+  orig: 400, 400
+  offset: 95, 119
+  index: -1
+ef_aura/ef_aura_07
+  rotate: false
+  xy: 924, 321
+  size: 222, 190
+  orig: 400, 400
+  offset: 94, 134
+  index: -1
+ef_aura/ef_aura_08
+  rotate: false
+  xy: 701, 319
+  size: 222, 192
+  orig: 400, 400
+  offset: 94, 136
+  index: -1
+ef_circle
+  rotate: false
+  xy: 1, 259
+  size: 261, 252
+  orig: 300, 300
+  offset: 20, 23
+  index: -1
+ef_eye_emblem
+  rotate: true
+  xy: 694, 79
+  size: 128, 86
+  orig: 250, 250
+  offset: 61, 82
+  index: -1
+ef_particle/ef_particle_00
+  rotate: true
+  xy: 590, 1
+  size: 48, 66
+  orig: 250, 250
+  offset: 100, 75
+  index: -1
+ef_particle/ef_particle_01
+  rotate: false
+  xy: 1076, 215
+  size: 69, 105
+  orig: 250, 250
+  offset: 88, 74
+  index: -1
+ef_particle/ef_particle_02
+  rotate: false
+  xy: 781, 89
+  size: 83, 127
+  orig: 250, 250
+  offset: 81, 71
+  index: -1
+ef_particle/ef_particle_03
+  rotate: true
+  xy: 580, 208
+  size: 91, 146
+  orig: 250, 250
+  offset: 76, 69
+  index: -1
+ef_particle/ef_particle_04
+  rotate: true
+  xy: 424, 202
+  size: 97, 155
+  orig: 250, 250
+  offset: 73, 70
+  index: -1
+ef_particle/ef_particle_05
+  rotate: false
+  xy: 490, 44
+  size: 99, 157
+  orig: 250, 250
+  offset: 72, 71
+  index: -1
+ef_particle/ef_particle_06
+  rotate: true
+  xy: 263, 201
+  size: 99, 160
+  orig: 250, 250
+  offset: 72, 70
+  index: -1
+ef_particle/ef_particle_07
+  rotate: true
+  xy: 727, 217
+  size: 101, 156
+  orig: 250, 250
+  offset: 71, 72
+  index: -1
+ef_particle/ef_particle_08
+  rotate: false
+  xy: 590, 50
+  size: 103, 157
+  orig: 250, 250
+  offset: 70, 74
+  index: -1
+ef_particle/ef_particle_09
+  rotate: false
+  xy: 384, 42
+  size: 105, 158
+  orig: 250, 250
+  offset: 69, 76
+  index: -1
+ef_particle/ef_particle_10
+  rotate: true
+  xy: 224, 95
+  size: 105, 159
+  orig: 250, 250
+  offset: 69, 78
+  index: -1
+ef_particle/ef_particle_11
+  rotate: false
+  xy: 1749, 352
+  size: 106, 159
+  orig: 250, 250
+  offset: 69, 80
+  index: -1
+ef_particle/ef_particle_12
+  rotate: false
+  xy: 1856, 352
+  size: 106, 159
+  orig: 250, 250
+  offset: 70, 82
+  index: -1
+ef_particle/ef_particle_13
+  rotate: true
+  xy: 224, 1
+  size: 93, 159
+  orig: 250, 250
+  offset: 83, 83
+  index: -1
+ef_particle/ef_particle_14
+  rotate: true
+  xy: 1558, 250
+  size: 93, 117
+  orig: 250, 250
+  offset: 84, 86
+  index: -1
+ef_particle/ef_particle_15
+  rotate: true
+  xy: 1772, 262
+  size: 89, 117
+  orig: 250, 250
+  offset: 89, 88
+  index: -1

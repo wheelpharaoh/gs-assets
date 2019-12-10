@@ -1,0 +1,62 @@
+
+chara_1200.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face_1
+  rotate: false
+  xy: 1, 646
+  size: 239, 377
+  orig: 243, 381
+  offset: 2, 2
+  index: -1
+face_2
+  rotate: false
+  xy: 236, 321
+  size: 245, 323
+  orig: 249, 327
+  offset: 2, 2
+  index: -1
+face_3
+  rotate: false
+  xy: 1, 19
+  size: 281, 246
+  orig: 285, 250
+  offset: 2, 2
+  index: -1
+face_4
+  rotate: false
+  xy: 242, 671
+  size: 260, 352
+  orig: 264, 356
+  offset: 2, 2
+  index: -1
+face_5
+  rotate: false
+  xy: 1, 267
+  size: 233, 377
+  orig: 237, 381
+  offset: 2, 2
+  index: -1
+face_6
+  rotate: false
+  xy: 504, 711
+  size: 274, 312
+  orig: 278, 316
+  offset: 2, 2
+  index: -1
+face_7
+  rotate: false
+  xy: 284, 1
+  size: 246, 318
+  orig: 250, 322
+  offset: 2, 2
+  index: -1
+face_8
+  rotate: false
+  xy: 780, 754
+  size: 239, 269
+  orig: 243, 273
+  offset: 2, 2
+  index: -1

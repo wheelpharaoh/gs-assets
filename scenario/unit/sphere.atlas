@@ -1,0 +1,27 @@
+
+sphere.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/140_S3_wave1
+  rotate: false
+  xy: 1, 1
+  size: 210, 116
+  orig: 250, 250
+  offset: 0, 124
+  index: -1
+EF/140_S3_wave2
+  rotate: false
+  xy: 212, 27
+  size: 77, 90
+  orig: 250, 250
+  offset: 129, 26
+  index: -1
+EF/sphere/900_S2_sphire1_00004
+  rotate: false
+  xy: 290, 65
+  size: 52, 52
+  orig: 500, 500
+  offset: 226, 225
+  index: -1

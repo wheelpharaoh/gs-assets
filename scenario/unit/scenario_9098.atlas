@@ -1,0 +1,1007 @@
+
+scenario_9098.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00002
+  rotate: false
+  xy: 279, 807
+  size: 19, 6
+  orig: 91, 182
+  offset: 36, 162
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00003
+  rotate: false
+  xy: 498, 1479
+  size: 19, 12
+  orig: 91, 182
+  offset: 36, 153
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00004
+  rotate: true
+  xy: 282, 1379
+  size: 19, 23
+  orig: 91, 182
+  offset: 36, 141
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00005
+  rotate: false
+  xy: 115, 1405
+  size: 19, 37
+  orig: 91, 182
+  offset: 36, 127
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00006
+  rotate: true
+  xy: 271, 13
+  size: 20, 54
+  orig: 91, 182
+  offset: 35, 110
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00007
+  rotate: true
+  xy: 765, 1543
+  size: 22, 73
+  orig: 91, 182
+  offset: 34, 91
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00008
+  rotate: true
+  xy: 466, 541
+  size: 27, 98
+  orig: 91, 182
+  offset: 32, 69
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00009
+  rotate: false
+  xy: 443, 688
+  size: 33, 125
+  orig: 91, 182
+  offset: 29, 45
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00010
+  rotate: false
+  xy: 325, 1641
+  size: 37, 154
+  orig: 91, 182
+  offset: 27, 18
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00011
+  rotate: false
+  xy: 277, 648
+  size: 42, 158
+  orig: 91, 182
+  offset: 25, 14
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00013
+  rotate: true
+  xy: 122, 224
+  size: 56, 163
+  orig: 91, 182
+  offset: 17, 9
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00015
+  rotate: false
+  xy: 317, 1477
+  size: 67, 163
+  orig: 91, 182
+  offset: 12, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00017
+  rotate: false
+  xy: 279, 814
+  size: 76, 164
+  orig: 91, 182
+  offset: 7, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00019
+  rotate: true
+  xy: 111, 638
+  size: 82, 165
+  orig: 91, 182
+  offset: 4, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00021
+  rotate: true
+  xy: 598, 1849
+  size: 85, 164
+  orig: 91, 182
+  offset: 3, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00023
+  rotate: false
+  xy: 359, 1808
+  size: 85, 164
+  orig: 91, 182
+  offset: 3, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00025
+  rotate: true
+  xy: 598, 1764
+  size: 84, 164
+  orig: 91, 182
+  offset: 4, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00027
+  rotate: false
+  xy: 363, 1643
+  size: 84, 164
+  orig: 91, 182
+  offset: 3, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00029
+  rotate: false
+  xy: 194, 472
+  size: 84, 165
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00031
+  rotate: false
+  xy: 1, 57
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00033
+  rotate: false
+  xy: 256, 58
+  size: 84, 165
+  orig: 91, 182
+  offset: 3, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00035
+  rotate: true
+  xy: 598, 1679
+  size: 84, 164
+  orig: 91, 182
+  offset: 4, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00037
+  rotate: false
+  xy: 445, 1808
+  size: 85, 164
+  orig: 91, 182
+  offset: 3, 8
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00039
+  rotate: true
+  xy: 111, 721
+  size: 85, 165
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00041
+  rotate: false
+  xy: 87, 57
+  size: 83, 166
+  orig: 91, 182
+  offset: 4, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00043
+  rotate: true
+  xy: 827, 1937
+  size: 84, 166
+  orig: 91, 182
+  offset: 4, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00045
+  rotate: false
+  xy: 108, 472
+  size: 85, 165
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00047
+  rotate: false
+  xy: 145, 1485
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00049
+  rotate: false
+  xy: 231, 1485
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00051
+  rotate: true
+  xy: 145, 1399
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00053
+  rotate: true
+  xy: 115, 1313
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00055
+  rotate: false
+  xy: 112, 1146
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00057
+  rotate: false
+  xy: 112, 979
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00059
+  rotate: false
+  xy: 198, 1146
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00061
+  rotate: false
+  xy: 198, 979
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00063
+  rotate: true
+  xy: 112, 893
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00065
+  rotate: true
+  xy: 112, 807
+  size: 85, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00067
+  rotate: true
+  xy: 108, 387
+  size: 84, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00069
+  rotate: false
+  xy: 171, 57
+  size: 84, 166
+  orig: 91, 182
+  offset: 3, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00071
+  rotate: true
+  xy: 598, 1935
+  size: 79, 165
+  orig: 91, 182
+  offset: 6, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00073
+  rotate: false
+  xy: 448, 1648
+  size: 73, 159
+  orig: 91, 182
+  offset: 9, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00075
+  rotate: false
+  xy: 701, 1529
+  size: 63, 149
+  orig: 91, 182
+  offset: 14, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00077
+  rotate: true
+  xy: 1, 1
+  size: 55, 139
+  orig: 91, 182
+  offset: 18, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00079
+  rotate: true
+  xy: 141, 9
+  size: 47, 129
+  orig: 91, 182
+  offset: 22, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00081
+  rotate: true
+  xy: 279, 471
+  size: 38, 119
+  orig: 91, 182
+  offset: 27, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00082
+  rotate: true
+  xy: 846, 1664
+  size: 35, 114
+  orig: 91, 182
+  offset: 28, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00083
+  rotate: true
+  xy: 356, 814
+  size: 30, 108
+  orig: 91, 182
+  offset: 31, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00085
+  rotate: false
+  xy: 639, 759
+  size: 21, 98
+  orig: 91, 182
+  offset: 35, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00086
+  rotate: false
+  xy: 1004, 1954
+  size: 19, 93
+  orig: 91, 182
+  offset: 36, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00088
+  rotate: false
+  xy: 735, 1071
+  size: 11, 81
+  orig: 91, 182
+  offset: 40, 7
+  index: -1
+EF/a/ef_Debuff_aura_main/ef_Debuff_aura_main_00089
+  rotate: true
+  xy: 141, 3
+  size: 5, 76
+  orig: 91, 182
+  offset: 43, 7
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00004
+  rotate: true
+  xy: 633, 979
+  size: 64, 102
+  orig: 162, 162
+  offset: 58, 38
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00005
+  rotate: false
+  xy: 312, 1379
+  size: 132, 97
+  orig: 162, 162
+  offset: 18, 40
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00007
+  rotate: false
+  xy: 284, 979
+  size: 125, 86
+  orig: 162, 162
+  offset: 21, 45
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00008
+  rotate: true
+  xy: 385, 543
+  size: 133, 80
+  orig: 162, 162
+  offset: 11, 48
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00010
+  rotate: true
+  xy: 343, 677
+  size: 136, 99
+  orig: 162, 162
+  offset: 4, 27
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00011
+  rotate: true
+  xy: 418, 1246
+  size: 132, 96
+  orig: 162, 162
+  offset: 6, 28
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00013
+  rotate: true
+  xy: 356, 845
+  size: 133, 95
+  orig: 162, 162
+  offset: 11, 36
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00014
+  rotate: false
+  xy: 284, 1066
+  size: 128, 103
+  orig: 162, 162
+  offset: 14, 32
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00016
+  rotate: false
+  xy: 418, 1154
+  size: 129, 91
+  orig: 162, 162
+  offset: 10, 39
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00017
+  rotate: false
+  xy: 498, 1381
+  size: 125, 97
+  orig: 162, 162
+  offset: 12, 41
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00019
+  rotate: true
+  xy: 385, 1481
+  size: 161, 85
+  orig: 162, 162
+  offset: 1, 47
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00020
+  rotate: true
+  xy: 471, 1492
+  size: 155, 86
+  orig: 162, 162
+  offset: 5, 52
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00022
+  rotate: true
+  xy: 236, 1653
+  size: 142, 88
+  orig: 162, 162
+  offset: 12, 45
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00023
+  rotate: false
+  xy: 558, 1479
+  size: 138, 93
+  orig: 162, 162
+  offset: 15, 37
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00025
+  rotate: true
+  xy: 624, 1353
+  size: 125, 84
+  orig: 162, 162
+  offset: 21, 41
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00026
+  rotate: true
+  xy: 544, 1028
+  size: 120, 78
+  orig: 162, 162
+  offset: 24, 45
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00028
+  rotate: false
+  xy: 849, 1779
+  size: 110, 73
+  orig: 162, 162
+  offset: 27, 50
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00029
+  rotate: false
+  xy: 849, 1853
+  size: 106, 83
+  orig: 162, 162
+  offset: 29, 46
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00031
+  rotate: false
+  xy: 341, 39
+  size: 96, 71
+  orig: 162, 162
+  offset: 34, 53
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00032
+  rotate: false
+  xy: 477, 662
+  size: 92, 66
+  orig: 162, 162
+  offset: 36, 56
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00034
+  rotate: true
+  xy: 555, 858
+  size: 120, 85
+  orig: 162, 162
+  offset: 28, 42
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00035
+  rotate: true
+  xy: 477, 729
+  size: 119, 84
+  orig: 162, 162
+  offset: 27, 41
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00037
+  rotate: false
+  xy: 846, 1700
+  size: 111, 78
+  orig: 162, 162
+  offset: 32, 41
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00038
+  rotate: true
+  xy: 341, 111
+  size: 115, 83
+  orig: 162, 162
+  offset: 25, 44
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00040
+  rotate: false
+  xy: 616, 1251
+  size: 116, 101
+  orig: 162, 162
+  offset: 29, 41
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00041
+  rotate: false
+  xy: 623, 1044
+  size: 111, 108
+  orig: 162, 162
+  offset: 31, 32
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00043
+  rotate: true
+  xy: 261, 1796
+  size: 137, 97
+  orig: 162, 162
+  offset: 4, 37
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00044
+  rotate: false
+  xy: 413, 1063
+  size: 130, 90
+  orig: 162, 162
+  offset: 8, 41
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00046
+  rotate: false
+  xy: 410, 979
+  size: 122, 83
+  orig: 162, 162
+  offset: 13, 42
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00047
+  rotate: true
+  xy: 562, 739
+  size: 118, 76
+  orig: 162, 162
+  offset: 16, 45
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00049
+  rotate: true
+  xy: 531, 1793
+  size: 111, 66
+  orig: 162, 162
+  offset: 21, 51
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00050
+  rotate: false
+  xy: 286, 227
+  size: 107, 61
+  orig: 162, 162
+  offset: 24, 54
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00052
+  rotate: true
+  xy: 445, 1379
+  size: 101, 52
+  orig: 162, 162
+  offset: 28, 58
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00053
+  rotate: false
+  xy: 466, 614
+  size: 97, 47
+  orig: 162, 162
+  offset: 30, 61
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00055
+  rotate: false
+  xy: 270, 1934
+  size: 87, 37
+  orig: 162, 162
+  offset: 36, 66
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00056
+  rotate: true
+  xy: 956, 1868
+  size: 68, 33
+  orig: 162, 162
+  offset: 54, 69
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00057
+  rotate: false
+  xy: 385, 513
+  size: 60, 29
+  orig: 162, 162
+  offset: 58, 72
+  index: -1
+EF/a/ef_Debuff_particle_main/ef_Debuff_particle_main_00058
+  rotate: false
+  xy: 271, 34
+  size: 61, 23
+  orig: 162, 162
+  offset: 56, 74
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00001
+  rotate: false
+  xy: 1, 2010
+  size: 310, 37
+  orig: 320, 160
+  offset: 5, 57
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00002
+  rotate: false
+  xy: 1, 1972
+  size: 290, 37
+  orig: 320, 160
+  offset: 15, 57
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00003
+  rotate: false
+  xy: 312, 2010
+  size: 285, 37
+  orig: 320, 160
+  offset: 18, 57
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00004
+  rotate: false
+  xy: 1, 1934
+  size: 268, 37
+  orig: 320, 160
+  offset: 26, 57
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00005
+  rotate: false
+  xy: 292, 1973
+  size: 247, 36
+  orig: 320, 160
+  offset: 37, 57
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00006
+  rotate: false
+  xy: 598, 2015
+  size: 228, 32
+  orig: 320, 160
+  offset: 46, 60
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00007
+  rotate: true
+  xy: 115, 1443
+  size: 204, 29
+  orig: 320, 160
+  offset: 58, 62
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00008
+  rotate: false
+  xy: 827, 2022
+  size: 176, 25
+  orig: 320, 160
+  offset: 72, 65
+  index: -1
+EF/a/ef_graund_wave_rev_main 2/ef_graund_wave_rev_main 2_00009
+  rotate: true
+  xy: 320, 655
+  size: 158, 22
+  orig: 320, 160
+  offset: 81, 67
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00001
+  rotate: false
+  xy: 1, 1800
+  size: 150, 133
+  orig: 180, 180
+  offset: 6, 16
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00002
+  rotate: true
+  xy: 1, 1648
+  size: 151, 127
+  orig: 180, 180
+  offset: 7, 18
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00003
+  rotate: true
+  xy: 1, 224
+  size: 148, 120
+  orig: 180, 180
+  offset: 9, 22
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00004
+  rotate: true
+  xy: 152, 1796
+  size: 137, 108
+  orig: 180, 180
+  offset: 16, 27
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00005
+  rotate: true
+  xy: 129, 1652
+  size: 143, 106
+  orig: 180, 180
+  offset: 15, 29
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00006
+  rotate: true
+  xy: 1, 524
+  size: 158, 106
+  orig: 180, 180
+  offset: 8, 27
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00007
+  rotate: true
+  xy: 1, 1160
+  size: 161, 110
+  orig: 180, 180
+  offset: 7, 23
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00008
+  rotate: true
+  xy: 1, 1485
+  size: 162, 113
+  orig: 180, 180
+  offset: 8, 21
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00009
+  rotate: true
+  xy: 1, 1322
+  size: 162, 113
+  orig: 180, 180
+  offset: 9, 21
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00010
+  rotate: true
+  xy: 1, 999
+  size: 160, 110
+  orig: 180, 180
+  offset: 11, 23
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00011
+  rotate: true
+  xy: 1, 683
+  size: 157, 109
+  orig: 180, 180
+  offset: 13, 24
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00012
+  rotate: true
+  xy: 1, 841
+  size: 157, 110
+  orig: 180, 180
+  offset: 14, 23
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00013
+  rotate: true
+  xy: 1, 373
+  size: 150, 106
+  orig: 180, 180
+  offset: 17, 26
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00014
+  rotate: false
+  xy: 122, 281
+  size: 144, 105
+  orig: 180, 180
+  offset: 18, 27
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00015
+  rotate: false
+  xy: 558, 1573
+  size: 142, 105
+  orig: 180, 180
+  offset: 22, 28
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00016
+  rotate: true
+  xy: 279, 510
+  size: 137, 105
+  orig: 180, 180
+  offset: 27, 28
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00017
+  rotate: false
+  xy: 284, 1274
+  size: 133, 104
+  orig: 180, 180
+  offset: 29, 29
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00018
+  rotate: false
+  xy: 284, 1170
+  size: 133, 103
+  orig: 180, 180
+  offset: 28, 30
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00019
+  rotate: true
+  xy: 452, 849
+  size: 129, 102
+  orig: 180, 180
+  offset: 30, 31
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00020
+  rotate: true
+  xy: 515, 1256
+  size: 124, 100
+  orig: 180, 180
+  offset: 32, 33
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00021
+  rotate: false
+  xy: 615, 1153
+  size: 120, 97
+  orig: 180, 180
+  offset: 34, 35
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00022
+  rotate: true
+  xy: 641, 860
+  size: 118, 95
+  orig: 180, 180
+  offset: 35, 36
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00023
+  rotate: false
+  xy: 275, 378
+  size: 116, 92
+  orig: 180, 180
+  offset: 36, 38
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00024
+  rotate: false
+  xy: 267, 289
+  size: 116, 88
+  orig: 180, 180
+  offset: 36, 40
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00025
+  rotate: true
+  xy: 763, 1794
+  size: 115, 85
+  orig: 180, 180
+  offset: 36, 42
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00026
+  rotate: true
+  xy: 763, 1679
+  size: 114, 82
+  orig: 180, 180
+  offset: 36, 44
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00027
+  rotate: true
+  xy: 765, 1566
+  size: 112, 78
+  orig: 180, 180
+  offset: 37, 46
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00028
+  rotate: true
+  xy: 522, 1681
+  size: 111, 75
+  orig: 180, 180
+  offset: 37, 48
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00029
+  rotate: false
+  xy: 844, 1593
+  size: 108, 70
+  orig: 180, 180
+  offset: 38, 51
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00030
+  rotate: true
+  xy: 548, 1149
+  size: 106, 66
+  orig: 180, 180
+  offset: 39, 53
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00031
+  rotate: true
+  xy: 764, 1910
+  size: 104, 61
+  orig: 180, 180
+  offset: 40, 56
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00032
+  rotate: true
+  xy: 540, 1905
+  size: 104, 57
+  orig: 180, 180
+  offset: 40, 58
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00033
+  rotate: false
+  xy: 844, 1540
+  size: 102, 52
+  orig: 180, 180
+  offset: 41, 61
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00034
+  rotate: false
+  xy: 533, 979
+  size: 99, 48
+  orig: 180, 180
+  offset: 42, 63
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00035
+  rotate: false
+  xy: 466, 569
+  size: 98, 44
+  orig: 180, 180
+  offset: 42, 65
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00036
+  rotate: true
+  xy: 570, 642
+  size: 96, 40
+  orig: 180, 180
+  offset: 43, 68
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00037
+  rotate: true
+  xy: 611, 644
+  size: 94, 36
+  orig: 180, 180
+  offset: 44, 70
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00038
+  rotate: true
+  xy: 990, 1844
+  size: 92, 33
+  orig: 180, 180
+  offset: 45, 72
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00039
+  rotate: true
+  xy: 960, 1776
+  size: 91, 28
+  orig: 180, 180
+  offset: 45, 75
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00040
+  rotate: true
+  xy: 661, 769
+  size: 90, 25
+  orig: 180, 180
+  offset: 45, 77
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00041
+  rotate: true
+  xy: 687, 775
+  size: 84, 23
+  orig: 180, 180
+  offset: 48, 78
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00042
+  rotate: true
+  xy: 711, 775
+  size: 84, 20
+  orig: 180, 180
+  offset: 48, 80
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00043
+  rotate: true
+  xy: 384, 293
+  size: 84, 18
+  orig: 180, 180
+  offset: 48, 81
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00044
+  rotate: true
+  xy: 392, 386
+  size: 84, 17
+  orig: 180, 180
+  offset: 48, 81
+  index: -1
+EF/a/ef_time_wave_main/ef_time_wave_main_00045
+  rotate: true
+  xy: 732, 775
+  size: 84, 16
+  orig: 180, 180
+  offset: 48, 82
+  index: -1

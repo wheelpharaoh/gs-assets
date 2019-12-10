@@ -1,0 +1,41 @@
+
+chara_1290.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 43
+  size: 292, 427
+  orig: 292, 427
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 295, 329
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 295, 186
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 295, 43
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1

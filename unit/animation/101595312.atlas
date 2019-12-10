@@ -1,0 +1,272 @@
+
+101595312.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dot/02
+  rotate: true
+  xy: 149, 46
+  size: 78, 52
+  orig: 250, 250
+  offset: 85, 89
+  index: -1
+Dot/03
+  rotate: true
+  xy: 698, 317
+  size: 53, 59
+  orig: 250, 250
+  offset: 78, 84
+  index: -1
+Dot/05
+  rotate: false
+  xy: 617, 317
+  size: 80, 39
+  orig: 250, 250
+  offset: 94, 102
+  index: -1
+Dot/06
+  rotate: false
+  xy: 287, 38
+  size: 69, 65
+  orig: 250, 250
+  offset: 100, 86
+  index: -1
+Dot/07
+  rotate: false
+  xy: 86, 31
+  size: 46, 19
+  orig: 250, 250
+  offset: 126, 84
+  index: -1
+Dot/09
+  rotate: false
+  xy: 333, 224
+  size: 87, 88
+  orig: 250, 250
+  offset: 88, 85
+  index: -1
+Dot/10
+  rotate: false
+  xy: 774, 278
+  size: 47, 17
+  orig: 250, 250
+  offset: 129, 154
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00002
+  rotate: false
+  xy: 494, 317
+  size: 122, 127
+  orig: 400, 240
+  offset: 139, 90
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00004
+  rotate: false
+  xy: 333, 313
+  size: 160, 131
+  orig: 400, 240
+  offset: 120, 86
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00006
+  rotate: true
+  xy: 196, 191
+  size: 216, 136
+  orig: 400, 240
+  offset: 95, 81
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00008
+  rotate: true
+  xy: 66, 125
+  size: 282, 129
+  orig: 400, 240
+  offset: 61, 75
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00010
+  rotate: false
+  xy: 0, 408
+  size: 330, 103
+  orig: 400, 240
+  offset: 37, 69
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00012
+  rotate: false
+  xy: 331, 445
+  size: 350, 66
+  orig: 400, 240
+  offset: 25, 65
+  index: -1
+EF/mainef_graund_wave_main/ef_graund_wave_main_00014
+  rotate: true
+  xy: 0, 51
+  size: 356, 65
+  orig: 400, 240
+  offset: 22, 63
+  index: -1
+attack_01
+  rotate: false
+  xy: 202, 61
+  size: 84, 66
+  orig: 250, 250
+  offset: 81, 90
+  index: -1
+attack_02
+  rotate: false
+  xy: 202, 0
+  size: 83, 60
+  orig: 250, 250
+  offset: 78, 88
+  index: -1
+attack_03
+  rotate: false
+  xy: 862, 448
+  size: 85, 63
+  orig: 250, 250
+  offset: 77, 89
+  index: -1
+attack_04
+  rotate: false
+  xy: 576, 234
+  size: 68, 82
+  orig: 250, 250
+  offset: 83, 84
+  index: -1
+attack_05
+  rotate: true
+  xy: 645, 234
+  size: 82, 65
+  orig: 250, 250
+  offset: 100, 91
+  index: -1
+attack_06
+  rotate: true
+  xy: 349, 140
+  size: 83, 67
+  orig: 250, 250
+  offset: 100, 91
+  index: -1
+attack_07
+  rotate: false
+  xy: 948, 452
+  size: 75, 59
+  orig: 250, 250
+  offset: 94, 91
+  index: -1
+attack_08
+  rotate: false
+  xy: 66, 51
+  size: 82, 73
+  orig: 250, 250
+  offset: 94, 89
+  index: -1
+attack_09
+  rotate: true
+  xy: 421, 228
+  size: 84, 74
+  orig: 250, 250
+  offset: 93, 88
+  index: -1
+back_01
+  rotate: true
+  xy: 711, 232
+  size: 84, 62
+  orig: 250, 250
+  offset: 68, 89
+  index: -1
+damage_01
+  rotate: true
+  xy: 617, 357
+  size: 87, 64
+  orig: 250, 250
+  offset: 84, 87
+  index: -1
+front_01
+  rotate: false
+  xy: 0, 0
+  size: 85, 50
+  orig: 250, 250
+  offset: 82, 89
+  index: -1
+idle_01
+  rotate: false
+  xy: 682, 448
+  size: 91, 63
+  orig: 250, 250
+  offset: 76, 89
+  index: -1
+idle_02
+  rotate: false
+  xy: 196, 128
+  size: 90, 62
+  orig: 250, 250
+  offset: 75, 89
+  index: -1
+idle_03
+  rotate: false
+  xy: 774, 448
+  size: 87, 63
+  orig: 250, 250
+  offset: 80, 89
+  index: -1
+idle_04
+  rotate: true
+  xy: 357, 55
+  size: 84, 62
+  orig: 250, 250
+  offset: 89, 89
+  index: -1
+idle_05
+  rotate: true
+  xy: 287, 104
+  size: 86, 61
+  orig: 250, 250
+  offset: 91, 89
+  index: -1
+skill1_01
+  rotate: true
+  xy: 925, 370
+  size: 77, 57
+  orig: 250, 250
+  offset: 81, 89
+  index: -1
+skill1_02
+  rotate: false
+  xy: 682, 371
+  size: 78, 76
+  orig: 250, 250
+  offset: 88, 85
+  index: -1
+skill1_03
+  rotate: false
+  xy: 496, 239
+  size: 79, 77
+  orig: 250, 250
+  offset: 89, 86
+  index: -1
+skill1_04
+  rotate: true
+  xy: 774, 296
+  size: 77, 70
+  orig: 250, 250
+  offset: 78, 85
+  index: -1
+skill1_05
+  rotate: false
+  xy: 845, 303
+  size: 74, 71
+  orig: 250, 250
+  offset: 78, 85
+  index: -1
+skill2_02
+  rotate: false
+  xy: 843, 375
+  size: 81, 72
+  orig: 250, 250
+  offset: 99, 88
+  index: -1
+skill2_03
+  rotate: false
+  xy: 761, 374
+  size: 81, 73
+  orig: 250, 250
+  offset: 101, 85
+  index: -1

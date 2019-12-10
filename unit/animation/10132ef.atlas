@@ -1,0 +1,391 @@
+
+10132ef.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/sk/dash/370_S1_dash1_00001
+  rotate: false
+  xy: 629, 0
+  size: 76, 79
+  orig: 250, 250
+  offset: 94, 83
+  index: -1
+EF/sk/dash/370_S1_dash1_00003
+  rotate: false
+  xy: 937, 133
+  size: 87, 126
+  orig: 250, 250
+  offset: 95, 83
+  index: -1
+EF/sk/dash/370_S1_dash1_00005
+  rotate: true
+  xy: 360, 0
+  size: 81, 85
+  orig: 250, 250
+  offset: 88, 84
+  index: -1
+EF/sk/dash/370_S1_dash1_00007
+  rotate: true
+  xy: 1519, 135
+  size: 72, 97
+  orig: 250, 250
+  offset: 96, 84
+  index: -1
+EF/sk/dash/370_S1_dash1_00008
+  rotate: true
+  xy: 1126, 11
+  size: 38, 74
+  orig: 250, 250
+  offset: 111, 84
+  index: -1
+EF/sk/drive-download-20161110T100144Z/1010_S2_wave1_00005
+  rotate: false
+  xy: 1529, 466
+  size: 308, 45
+  orig: 500, 500
+  offset: 95, 228
+  index: -1
+EF/sk/drive-download-20161110T100144Z/1010_S2_wave1_00006
+  rotate: false
+  xy: 0, 29
+  size: 359, 52
+  orig: 500, 500
+  offset: 69, 223
+  index: -1
+EF/sk/drive-download-20161110T100255Z/1010_S1_power2_00007
+  rotate: false
+  xy: 1529, 313
+  size: 152, 152
+  orig: 250, 250
+  offset: 50, 50
+  index: -1
+EF/sk/drive-download-20161110T100649Z/BLD_NTR_ex1_00002
+  rotate: false
+  xy: 1405, 193
+  size: 113, 104
+  orig: 250, 250
+  offset: 66, 70
+  index: -1
+EF/sk/drive-download-20161110T100649Z/BLD_NTR_ex1_00004
+  rotate: true
+  xy: 1168, 178
+  size: 120, 107
+  orig: 250, 250
+  offset: 65, 69
+  index: -1
+EF/sk/drive-download-20161110T100649Z/BLD_NTR_ex1_00006
+  rotate: true
+  xy: 835, 0
+  size: 132, 100
+  orig: 250, 250
+  offset: 58, 75
+  index: -1
+EF/sk/drive-download-20161110T100649Z/BLD_NTR_ex1_00008
+  rotate: false
+  xy: 1682, 133
+  size: 150, 98
+  orig: 250, 250
+  offset: 50, 75
+  index: -1
+EF/sk/drive-download-20161110T100649Z/BLD_NTR_ex1_00010
+  rotate: false
+  xy: 1836, 239
+  size: 171, 93
+  orig: 250, 250
+  offset: 40, 77
+  index: -1
+EF/sk/drive-download-20161110T100649Z/BLD_NTR_ex1_00012
+  rotate: false
+  xy: 1838, 333
+  size: 173, 90
+  orig: 250, 250
+  offset: 39, 79
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00006
+  rotate: false
+  xy: 259, 82
+  size: 254, 214
+  orig: 288, 259
+  offset: 14, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00008
+  rotate: false
+  xy: 1030, 299
+  size: 250, 212
+  orig: 288, 259
+  offset: 16, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00010
+  rotate: false
+  xy: 1281, 298
+  size: 247, 213
+  orig: 288, 259
+  offset: 15, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00012
+  rotate: false
+  xy: 777, 302
+  size: 252, 209
+  orig: 288, 259
+  offset: 13, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00014
+  rotate: false
+  xy: 520, 301
+  size: 256, 210
+  orig: 288, 259
+  offset: 12, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00016
+  rotate: false
+  xy: 262, 297
+  size: 257, 214
+  orig: 288, 259
+  offset: 13, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00018
+  rotate: false
+  xy: 0, 297
+  size: 261, 214
+  orig: 288, 259
+  offset: 12, 13
+  index: -1
+EF/sk/ef_trrnade_main/ef_trrnade_main_00020
+  rotate: false
+  xy: 0, 82
+  size: 258, 214
+  orig: 288, 259
+  offset: 11, 13
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00002
+  rotate: true
+  xy: 1975, 73
+  size: 109, 72
+  orig: 192, 112
+  offset: 39, 25
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00004
+  rotate: false
+  xy: 1404, 125
+  size: 114, 67
+  orig: 192, 112
+  offset: 39, 24
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00006
+  rotate: true
+  xy: 1135, 50
+  size: 126, 57
+  orig: 192, 112
+  offset: 32, 24
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00008
+  rotate: true
+  xy: 936, 0
+  size: 132, 55
+  orig: 192, 112
+  offset: 30, 25
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00010
+  rotate: true
+  xy: 992, 0
+  size: 132, 51
+  orig: 192, 112
+  offset: 31, 26
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00012
+  rotate: false
+  xy: 1276, 147
+  size: 127, 46
+  orig: 192, 112
+  offset: 34, 28
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00014
+  rotate: false
+  xy: 1379, 84
+  size: 121, 40
+  orig: 192, 112
+  offset: 35, 32
+  index: -1
+EF/sk/ef_tuti_main/ef_tuti_main_00016
+  rotate: false
+  xy: 1379, 51
+  size: 118, 32
+  orig: 192, 112
+  offset: 37, 38
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00001
+  rotate: false
+  xy: 777, 260
+  size: 185, 41
+  orig: 250, 160
+  offset: 19, 51
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00002
+  rotate: false
+  xy: 1833, 130
+  size: 141, 52
+  orig: 250, 160
+  offset: 17, 45
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00003
+  rotate: true
+  xy: 1617, 112
+  size: 95, 59
+  orig: 250, 160
+  offset: 16, 29
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00004
+  rotate: false
+  xy: 514, 80
+  size: 215, 73
+  orig: 250, 160
+  offset: 16, 22
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00005
+  rotate: false
+  xy: 520, 231
+  size: 225, 69
+  orig: 250, 160
+  offset: 16, 24
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00006
+  rotate: false
+  xy: 514, 154
+  size: 225, 76
+  orig: 250, 160
+  offset: 16, 26
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00007
+  rotate: false
+  xy: 1838, 424
+  size: 182, 87
+  orig: 250, 160
+  offset: 58, 26
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00008
+  rotate: false
+  xy: 446, 14
+  size: 182, 65
+  orig: 250, 160
+  offset: 57, 46
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00009
+  rotate: false
+  xy: 1836, 183
+  size: 142, 55
+  orig: 250, 160
+  offset: 96, 55
+  index: -1
+EF/sk/ef_wind_circle_main 3/ef_wind_circle_main 3_00010
+  rotate: false
+  xy: 1677, 101
+  size: 115, 31
+  orig: 250, 160
+  offset: 87, 80
+  index: -1
+EF/sk/rock_spray/690_S2_rock1_00002
+  rotate: true
+  xy: 835, 133
+  size: 126, 101
+  orig: 200, 200
+  offset: 36, 22
+  index: -1
+EF/sk/rock_spray/690_S2_rock1_00004
+  rotate: false
+  xy: 1025, 177
+  size: 142, 121
+  orig: 200, 200
+  offset: 31, 24
+  index: -1
+EF/sk/rock_spray/690_S2_rock1_00006
+  rotate: false
+  xy: 1682, 337
+  size: 155, 128
+  orig: 200, 200
+  offset: 26, 18
+  index: -1
+EF/sk/wind_front/9020_wind2_00023
+  rotate: false
+  xy: 1529, 208
+  size: 152, 104
+  orig: 180, 180
+  offset: 13, 38
+  index: -1
+EF/sk/wind_front/9020_wind2_00024
+  rotate: true
+  xy: 730, 0
+  size: 153, 104
+  orig: 180, 180
+  offset: 13, 38
+  index: -1
+EF/sk/wind_front/9020_wind2_00025
+  rotate: false
+  xy: 1682, 232
+  size: 153, 104
+  orig: 180, 180
+  offset: 13, 38
+  index: -1
+EF/sk/wind_up/9020_wind4_00005
+  rotate: false
+  xy: 1193, 57
+  size: 80, 120
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+EF/skill1EF_00
+  rotate: false
+  xy: 1201, 6
+  size: 51, 50
+  orig: 200, 156
+  offset: 34, 38
+  index: -1
+EF/skill1EF_01
+  rotate: false
+  xy: 963, 260
+  size: 50, 41
+  orig: 200, 156
+  offset: 37, 28
+  index: -1
+EF/skill1EF_02
+  rotate: true
+  xy: 1611, 0
+  size: 111, 47
+  orig: 200, 156
+  offset: 87, 23
+  index: -1
+EF/skill2EF_00
+  rotate: true
+  xy: 1519, 60
+  size: 74, 91
+  orig: 270, 156
+  offset: 29, 8
+  index: -1
+EF/skill2EF_01
+  rotate: true
+  xy: 1274, 61
+  size: 85, 104
+  orig: 270, 156
+  offset: 141, 30
+  index: -1
+EF/skill2EF_02
+  rotate: false
+  xy: 1044, 55
+  size: 90, 121
+  orig: 270, 156
+  offset: 46, 34
+  index: -1
+EF/skill2EF_03
+  rotate: true
+  xy: 1044, 11
+  size: 43, 81
+  orig: 270, 156
+  offset: 179, 71
+  index: -1
+EF/skill2EF_04
+  rotate: true
+  xy: 1276, 194
+  size: 103, 128
+  orig: 270, 156
+  offset: 26, 24
+  index: -1

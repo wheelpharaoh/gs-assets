@@ -1,0 +1,62 @@
+
+scenario_9100.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_kubiki
+  rotate: false
+  xy: 1, 1
+  size: 84, 20
+  orig: 86, 22
+  offset: 1, 1
+  index: -1
+L_wheel_back
+  rotate: false
+  xy: 169, 52
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+L_wheel_front
+  rotate: false
+  xy: 220, 52
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+R_kubiki
+  rotate: false
+  xy: 169, 103
+  size: 84, 20
+  orig: 86, 22
+  offset: 1, 1
+  index: -1
+R_wheel_back
+  rotate: false
+  xy: 169, 1
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+R_wheel_front
+  rotate: false
+  xy: 169, 1
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+box
+  rotate: false
+  xy: 1, 22
+  size: 167, 101
+  orig: 169, 103
+  offset: 1, 1
+  index: -1
+door
+  rotate: true
+  xy: 254, 111
+  size: 12, 28
+  orig: 14, 30
+  offset: 1, 1
+  index: -1

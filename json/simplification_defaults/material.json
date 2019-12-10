@@ -1,0 +1,35 @@
+{
+    "ui_objects":
+    {
+        "Ascend":
+        {
+            "m_isRadioButton":true,
+            "m_state":true
+        },
+        "Descend":
+        {
+            "m_isRadioButton":true,
+            "m_state":false
+        },
+        "Index":
+        {
+            "m_isRadioButton":true,
+            "m_state":true
+        },
+        "GetTime":
+        {
+            "m_isRadioButton":true,
+            "m_state":false
+        },
+        "Number":
+        {
+            "m_isRadioButton":true,
+            "m_state":false
+        },
+        "Type":
+        {
+            "m_isRadioButton":true,
+            "m_state":false
+        }
+    }
+}

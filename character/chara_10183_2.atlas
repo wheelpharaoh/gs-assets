@@ -1,0 +1,13 @@
+
+chara_10183_2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chara_10183_2
+  rotate: false
+  xy: 0, 0
+  size: 442, 822
+  orig: 1024, 1024
+  offset: 291, 0
+  index: -1

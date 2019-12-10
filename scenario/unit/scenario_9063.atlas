@@ -1,0 +1,62 @@
+
+scenario_9063.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_00
+  rotate: true
+  xy: 447, 13
+  size: 46, 48
+  orig: 256, 256
+  offset: 109, 86
+  index: -1
+damage_00
+  rotate: false
+  xy: 328, 1
+  size: 56, 58
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+front_00
+  rotate: false
+  xy: 385, 12
+  size: 61, 47
+  orig: 256, 256
+  offset: 99, 86
+  index: -1
+idle_00
+  rotate: true
+  xy: 198, 0
+  size: 59, 64
+  orig: 256, 256
+  offset: 100, 86
+  index: -1
+idle_01
+  rotate: true
+  xy: 0, 0
+  size: 59, 65
+  orig: 256, 256
+  offset: 100, 86
+  index: -1
+idle_02
+  rotate: true
+  xy: 66, 0
+  size: 59, 65
+  orig: 256, 256
+  offset: 100, 86
+  index: -1
+idle_03
+  rotate: true
+  xy: 132, 0
+  size: 59, 65
+  orig: 256, 256
+  offset: 100, 86
+  index: -1
+idle_04
+  rotate: true
+  xy: 263, 0
+  size: 59, 64
+  orig: 256, 256
+  offset: 100, 86
+  index: -1
