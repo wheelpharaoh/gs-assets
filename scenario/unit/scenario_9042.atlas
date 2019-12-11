@@ -1,0 +1,76 @@
+
+scenario_9042.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down1_00
+  rotate: false
+  xy: 372, 81
+  size: 57, 46
+  orig: 256, 256
+  offset: 96, 88
+  index: -1
+down1_01
+  rotate: false
+  xy: 430, 89
+  size: 58, 38
+  orig: 256, 256
+  offset: 93, 87
+  index: -1
+down1_02
+  rotate: true
+  xy: 1, 1
+  size: 60, 40
+  orig: 256, 256
+  offset: 89, 85
+  index: -1
+down1_03
+  rotate: true
+  xy: 489, 63
+  size: 64, 22
+  orig: 256, 256
+  offset: 86, 85
+  index: -1
+down2_00
+  rotate: false
+  xy: 42, 30
+  size: 69, 31
+  orig: 256, 256
+  offset: 86, 81
+  index: -1
+idle_00
+  rotate: false
+  xy: 1, 62
+  size: 93, 65
+  orig: 256, 256
+  offset: 71, 88
+  index: -1
+idle_01
+  rotate: false
+  xy: 189, 61
+  size: 91, 66
+  orig: 256, 256
+  offset: 73, 88
+  index: -1
+idle_02
+  rotate: false
+  xy: 281, 61
+  size: 90, 66
+  orig: 256, 256
+  offset: 74, 88
+  index: -1
+idle_03
+  rotate: false
+  xy: 95, 62
+  size: 93, 65
+  orig: 256, 256
+  offset: 71, 88
+  index: -1
+sword_00
+  rotate: true
+  xy: 42, 20
+  size: 9, 47
+  orig: 256, 256
+  offset: 94, 84
+  index: -1

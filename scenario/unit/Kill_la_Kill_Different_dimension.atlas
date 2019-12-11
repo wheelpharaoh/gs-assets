@@ -1,0 +1,13 @@
+
+Kill_la_Kill_Different_dimension.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Different_dimension
+  rotate: false
+  xy: 0, 0
+  size: 400, 1024
+  orig: 400, 1024
+  offset: 0, 0
+  index: -1

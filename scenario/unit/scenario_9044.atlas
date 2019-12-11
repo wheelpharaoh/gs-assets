@@ -1,0 +1,111 @@
+
+scenario_9044.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_pen
+  rotate: true
+  xy: 253, 1
+  size: 27, 33
+  orig: 29, 35
+  offset: 1, 1
+  index: -1
+grab1
+  rotate: false
+  xy: 253, 29
+  size: 49, 51
+  orig: 200, 200
+  offset: 77, 34
+  index: -1
+grab2
+  rotate: false
+  xy: 1, 1
+  size: 50, 54
+  orig: 200, 200
+  offset: 76, 34
+  index: -1
+grab3
+  rotate: false
+  xy: 153, 25
+  size: 49, 53
+  orig: 200, 200
+  offset: 77, 34
+  index: -1
+idle00
+  rotate: false
+  xy: 1, 56
+  size: 65, 71
+  orig: 200, 200
+  offset: 81, 60
+  index: -1
+idle1
+  rotate: true
+  xy: 216, 81
+  size: 46, 71
+  orig: 200, 200
+  offset: 82, 58
+  index: -1
+idle2
+  rotate: true
+  xy: 288, 87
+  size: 40, 71
+  orig: 200, 200
+  offset: 85, 58
+  index: -1
+idle3
+  rotate: true
+  xy: 360, 87
+  size: 40, 71
+  orig: 200, 200
+  offset: 85, 58
+  index: -1
+idle_00
+  rotate: true
+  xy: 144, 79
+  size: 48, 71
+  orig: 256, 256
+  offset: 103, 90
+  index: -1
+idle_02
+  rotate: true
+  xy: 67, 70
+  size: 57, 76
+  orig: 256, 256
+  offset: 99, 88
+  index: -1
+kneel1
+  rotate: true
+  xy: 432, 77
+  size: 50, 61
+  orig: 200, 200
+  offset: 77, 50
+  index: -1
+reading1
+  rotate: false
+  xy: 303, 39
+  size: 47, 47
+  orig: 200, 200
+  offset: 86, 53
+  index: -1
+stretch1
+  rotate: false
+  xy: 203, 26
+  size: 49, 52
+  orig: 200, 200
+  offset: 77, 33
+  index: -1
+stretch2
+  rotate: false
+  xy: 102, 14
+  size: 50, 55
+  orig: 200, 200
+  offset: 76, 33
+  index: -1
+stretch3
+  rotate: false
+  xy: 52, 1
+  size: 49, 54
+  orig: 200, 200
+  offset: 77, 33
+  index: -1

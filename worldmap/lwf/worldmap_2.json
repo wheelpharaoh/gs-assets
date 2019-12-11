@@ -1,0 +1,43 @@
+{"frames": {
+
+"hide_cloud.png":
+{
+	"frame": {"x":2,"y":504,"w":715,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":715,"h":325},
+	"sourceSize": {"w":715,"h":325}
+},
+"sea_texture.png":
+{
+	"frame": {"x":1004,"y":2,"w":614,"h":614},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":614,"h":614},
+	"sourceSize": {"w":614,"h":614}
+},
+"wolrdmap_wave.png":
+{
+	"frame": {"x":2,"y":2,"w":1000,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":500},
+	"sourceSize": {"w":1000,"h":500}
+},
+"worldmap_sea.png":
+{
+	"frame": {"x":719,"y":504,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+}},
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.2.529",
+	"image": "worldmap_2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

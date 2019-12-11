@@ -1,0 +1,20 @@
+
+scenario_9090.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+EF/390_S1_magic/390_S1_magic_00038
+  rotate: false
+  xy: 1, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+EF/390_S1_magic/390_S1_magic_white
+  rotate: false
+  xy: 302, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

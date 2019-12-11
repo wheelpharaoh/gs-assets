@@ -1,0 +1,13 @@
+
+dice_aura.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/ef_flare_back_main/ef_flare_back_main_00005
+  rotate: false
+  xy: 1, 1
+  size: 222, 222
+  orig: 250, 250
+  offset: 14, 14
+  index: -1

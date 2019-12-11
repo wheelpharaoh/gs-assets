@@ -1,0 +1,55 @@
+
+scenario_9040.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_00
+  rotate: false
+  xy: 1, 1
+  size: 120, 81
+  orig: 256, 256
+  offset: 80, 87
+  index: -1
+idle_01
+  rotate: false
+  xy: 242, 1
+  size: 118, 81
+  orig: 256, 256
+  offset: 80, 88
+  index: -1
+idle_02
+  rotate: false
+  xy: 361, 1
+  size: 118, 81
+  orig: 256, 256
+  offset: 79, 89
+  index: -1
+idle_03
+  rotate: false
+  xy: 122, 1
+  size: 119, 81
+  orig: 256, 256
+  offset: 79, 88
+  index: -1
+kneel1_00
+  rotate: true
+  xy: 584, 6
+  size: 76, 89
+  orig: 256, 256
+  offset: 73, 84
+  index: -1
+weapon_off_00
+  rotate: false
+  xy: 480, 1
+  size: 103, 81
+  orig: 256, 256
+  offset: 100, 81
+  index: -1
+weapon_off_01
+  rotate: true
+  xy: 674, 13
+  size: 69, 81
+  orig: 256, 256
+  offset: 94, 91
+  index: -1

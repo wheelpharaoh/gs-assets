@@ -1,0 +1,27 @@
+
+scenario_9096.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/Goblin_Slayer/sword
+  rotate: true
+  xy: 1, 10
+  size: 17, 60
+  orig: 19, 61
+  offset: 1, 1
+  index: -1
+EF/Goblin_Slayer/table_00
+  rotate: false
+  xy: 62, 1
+  size: 43, 26
+  orig: 256, 256
+  offset: 106, 114
+  index: -1
+EF/Goblin_Slayer/table_01
+  rotate: false
+  xy: 106, 13
+  size: 33, 14
+  orig: 256, 256
+  offset: 111, 128
+  index: -1

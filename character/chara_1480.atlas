@@ -1,0 +1,167 @@
+
+chara_1480.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 649, 53
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 779, 125
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 973, 317
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1, 1
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 959, 157
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1, 187
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 851, 140
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 1, 16
+  size: 39, 183
+  orig: 39, 183
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 959, 127
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 323, 188
+  size: 61, 256
+  orig: 61, 256
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1, 57
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 323, 251
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 453, 251
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 583, 367
+  size: 174, 140
+  orig: 174, 140
+  offset: 0, 0
+  index: -1
+face_100
+  rotate: false
+  xy: 759, 379
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_110
+  rotate: false
+  xy: 889, 379
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_120
+  rotate: false
+  xy: 583, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_130
+  rotate: false
+  xy: 259, 57
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_140
+  rotate: false
+  xy: 389, 58
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_150
+  rotate: false
+  xy: 519, 58
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_160
+  rotate: false
+  xy: 713, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_170
+  rotate: false
+  xy: 843, 249
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+face_180
+  rotate: false
+  xy: 649, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

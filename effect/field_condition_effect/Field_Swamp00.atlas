@@ -1,0 +1,209 @@
+
+Field_Swamp00.png
+size: 2048,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+S2_breath2/9040A_S1_breath1_00013
+  rotate: false
+  xy: 1215, 293
+  size: 99, 101
+  orig: 150, 150
+  offset: 13, 24
+  index: -1
+S2_breath2/9040A_S1_breath1_00029
+  rotate: true
+  xy: 1103, 286
+  size: 108, 111
+  orig: 150, 150
+  offset: 13, 20
+  index: -1
+S2_breath2/9040A_S1_breath1_00041
+  rotate: false
+  xy: 753, 97
+  size: 115, 116
+  orig: 150, 150
+  offset: 13, 19
+  index: -1
+S2_breath2/9040A_S1_breath1_00049
+  rotate: false
+  xy: 1862, 392
+  size: 119, 119
+  orig: 150, 150
+  offset: 12, 17
+  index: -1
+S2_breath2/9040A_S1_breath1_00057
+  rotate: false
+  xy: 1614, 390
+  size: 121, 121
+  orig: 150, 150
+  offset: 13, 17
+  index: -1
+S2_breath2/9040A_S1_breath1_00065
+  rotate: false
+  xy: 631, 90
+  size: 121, 123
+  orig: 150, 150
+  offset: 14, 16
+  index: -1
+S2_breath2/9040A_S1_breath1_00073
+  rotate: false
+  xy: 1489, 392
+  size: 124, 119
+  orig: 150, 150
+  offset: 13, 18
+  index: -1
+S2_breath2/9040A_S1_breath1_00081
+  rotate: false
+  xy: 1234, 396
+  size: 128, 115
+  orig: 150, 150
+  offset: 12, 22
+  index: -1
+S2_breath2/9040A_S1_breath1_00089
+  rotate: false
+  xy: 1103, 395
+  size: 130, 116
+  orig: 150, 150
+  offset: 13, 21
+  index: -1
+S2_breath2/9040A_S1_breath1_00097
+  rotate: false
+  xy: 1363, 393
+  size: 125, 118
+  orig: 150, 150
+  offset: 20, 20
+  index: -1
+S2_breath2/9040A_S1_breath1_00105
+  rotate: true
+  xy: 1736, 397
+  size: 114, 125
+  orig: 150, 150
+  offset: 31, 12
+  index: -1
+UI_graund_main/UI_graund_main_00008
+  rotate: false
+  xy: 1, 407
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00010
+  rotate: false
+  xy: 1, 302
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00012
+  rotate: true
+  xy: 1, 1
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00014
+  rotate: true
+  xy: 106, 1
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00016
+  rotate: true
+  xy: 211, 1
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00018
+  rotate: false
+  xy: 302, 407
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00020
+  rotate: false
+  xy: 302, 302
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00022
+  rotate: true
+  xy: 316, 1
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00024
+  rotate: true
+  xy: 421, 1
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00026
+  rotate: true
+  xy: 526, 1
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00028
+  rotate: false
+  xy: 603, 407
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_main/UI_graund_main_00030
+  rotate: false
+  xy: 603, 302
+  size: 300, 104
+  orig: 300, 150
+  offset: 0, 26
+  index: -1
+UI_graund_wave_main/UI_graund_wave_main_00002
+  rotate: false
+  xy: 842, 280
+  size: 59, 21
+  orig: 300, 300
+  offset: 121, 139
+  index: -1
+UI_graund_wave_main/UI_graund_wave_main_00004
+  rotate: true
+  xy: 1982, 426
+  size: 85, 30
+  orig: 300, 300
+  offset: 108, 134
+  index: -1
+UI_graund_wave_main/UI_graund_wave_main_00006
+  rotate: false
+  xy: 631, 50
+  size: 113, 39
+  orig: 300, 300
+  offset: 94, 129
+  index: -1
+UI_graund_wave_main/UI_graund_wave_main_00008
+  rotate: false
+  xy: 631, 214
+  size: 210, 87
+  orig: 300, 300
+  offset: 45, 97
+  index: -1
+UI_graund_wave_main/UI_graund_wave_main_00010
+  rotate: false
+  xy: 904, 292
+  size: 145, 50
+  orig: 300, 300
+  offset: 78, 122
+  index: -1
+UI_mist_main/UI_mist_main_00004
+  rotate: false
+  xy: 904, 343
+  size: 198, 168
+  orig: 200, 200
+  offset: 1, 16
+  index: -1

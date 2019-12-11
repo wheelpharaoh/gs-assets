@@ -1,0 +1,34 @@
+
+chara_1155.png
+size: 1024,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 642, 257
+  size: 89, 689
+  orig: 89, 689
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 642, 947
+  size: 189, 755
+  orig: 189, 755
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 1, 1
+  size: 640, 847
+  orig: 640, 847
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1, 849
+  size: 640, 853
+  orig: 640, 853
+  offset: 0, 0
+  index: -1

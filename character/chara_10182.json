@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"AT2YJj1j6oh44Vx4dGuLnJwQrBw","spine":"3.0.12","width":1024,"height":1024},"bones":[{"name":"root"},{"name":"MAIN","parent":"root"}],"slots":[{"name":"00","bone":"MAIN","attachment":"chara_10182"}],"skins":{"default":{"00":{"chara_10182":{"y":512.5,"width":1024,"height":1024}}}},"animations":{"100":{}}}

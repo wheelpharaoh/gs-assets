@@ -1,0 +1,13 @@
+
+dice.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 1, 1
+  size: 194, 221
+  orig: 256, 256
+  offset: 29, 14
+  index: -1

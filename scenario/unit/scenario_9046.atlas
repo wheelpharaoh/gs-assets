@@ -1,0 +1,125 @@
+
+scenario_9046.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+floating_00
+  rotate: true
+  xy: 439, 35
+  size: 44, 66
+  orig: 95, 95
+  offset: 23, 12
+  index: -1
+floating_01
+  rotate: true
+  xy: 393, 80
+  size: 46, 67
+  orig: 95, 95
+  offset: 22, 12
+  index: -1
+floating_02
+  rotate: false
+  xy: 291, 11
+  size: 46, 68
+  orig: 95, 95
+  offset: 22, 12
+  index: -1
+floating_03
+  rotate: false
+  xy: 58, 58
+  size: 54, 68
+  orig: 95, 95
+  offset: 18, 12
+  index: -1
+floating_04
+  rotate: false
+  xy: 1, 58
+  size: 56, 68
+  orig: 95, 95
+  offset: 17, 12
+  index: -1
+floating_05
+  rotate: true
+  xy: 1, 1
+  size: 56, 68
+  orig: 95, 95
+  offset: 17, 12
+  index: -1
+floating_06
+  rotate: true
+  xy: 70, 3
+  size: 54, 68
+  orig: 95, 95
+  offset: 18, 12
+  index: -1
+floating_07
+  rotate: true
+  xy: 324, 80
+  size: 46, 68
+  orig: 95, 95
+  offset: 22, 12
+  index: -1
+floating_08
+  rotate: true
+  xy: 254, 80
+  size: 46, 69
+  orig: 95, 95
+  offset: 22, 12
+  index: -1
+floating_09
+  rotate: false
+  xy: 338, 11
+  size: 46, 68
+  orig: 95, 95
+  offset: 22, 12
+  index: -1
+front
+  rotate: false
+  xy: 385, 20
+  size: 53, 59
+  orig: 95, 95
+  offset: 23, 15
+  index: -1
+idle2_00
+  rotate: true
+  xy: 439, 1
+  size: 33, 69
+  orig: 95, 95
+  offset: 29, 12
+  index: -1
+idle_00
+  rotate: true
+  xy: 113, 76
+  size: 50, 70
+  orig: 95, 95
+  offset: 32, 12
+  index: -1
+idle_01
+  rotate: false
+  xy: 139, 5
+  size: 50, 70
+  orig: 95, 95
+  offset: 32, 12
+  index: -1
+idle_02
+  rotate: false
+  xy: 241, 6
+  size: 49, 69
+  orig: 95, 95
+  offset: 32, 13
+  index: -1
+idle_03
+  rotate: true
+  xy: 184, 76
+  size: 50, 69
+  orig: 95, 95
+  offset: 32, 13
+  index: -1
+idle_04
+  rotate: false
+  xy: 190, 6
+  size: 50, 69
+  orig: 95, 95
+  offset: 33, 13
+  index: -1

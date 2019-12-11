@@ -1,0 +1,97 @@
+
+scenario_9092.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00003
+  rotate: true
+  xy: 1621, 44
+  size: 55, 100
+  orig: 150, 200
+  offset: 46, 42
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00004
+  rotate: true
+  xy: 1513, 42
+  size: 57, 107
+  orig: 150, 200
+  offset: 46, 42
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00005
+  rotate: true
+  xy: 1262, 24
+  size: 75, 125
+  orig: 150, 200
+  offset: 46, 44
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00006
+  rotate: true
+  xy: 732, 17
+  size: 82, 132
+  orig: 150, 200
+  offset: 38, 43
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00007
+  rotate: true
+  xy: 599, 16
+  size: 83, 132
+  orig: 150, 200
+  offset: 34, 43
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00008
+  rotate: true
+  xy: 202, 13
+  size: 86, 131
+  orig: 150, 200
+  offset: 31, 44
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00009
+  rotate: true
+  xy: 334, 13
+  size: 86, 131
+  orig: 150, 200
+  offset: 31, 44
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00010
+  rotate: true
+  xy: 466, 15
+  size: 84, 132
+  orig: 150, 200
+  offset: 31, 43
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00011
+  rotate: true
+  xy: 865, 17
+  size: 82, 132
+  orig: 150, 200
+  offset: 32, 43
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00012
+  rotate: true
+  xy: 998, 19
+  size: 80, 131
+  orig: 150, 200
+  offset: 32, 44
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00013
+  rotate: true
+  xy: 1130, 19
+  size: 80, 131
+  orig: 150, 200
+  offset: 32, 44
+  index: -1
+EF/ef_blade_dark_aura_main/ef_blade_dark_aura_main_00014
+  rotate: true
+  xy: 1388, 36
+  size: 63, 124
+  orig: 150, 200
+  offset: 44, 46
+  index: -1
+Zeorg_dark
+  rotate: false
+  xy: 1, 1
+  size: 200, 98
+  orig: 204, 102
+  offset: 2, 2
+  index: -1

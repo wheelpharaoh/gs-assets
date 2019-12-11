@@ -1,0 +1,125 @@
+
+scenario_9056.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_00
+  rotate: true
+  xy: 329, 87
+  size: 69, 75
+  orig: 256, 256
+  offset: 83, 86
+  index: -1
+attack_01
+  rotate: false
+  xy: 405, 180
+  size: 123, 75
+  orig: 256, 256
+  offset: 71, 88
+  index: -1
+attack_02
+  rotate: false
+  xy: 636, 181
+  size: 99, 74
+  orig: 256, 256
+  offset: 81, 88
+  index: -1
+back_00
+  rotate: false
+  xy: 224, 93
+  size: 104, 63
+  orig: 256, 256
+  offset: 80, 86
+  index: -1
+damage_00
+  rotate: false
+  xy: 932, 181
+  size: 89, 74
+  orig: 256, 256
+  offset: 95, 98
+  index: -1
+dot_EF/Dot_EF
+  rotate: true
+  xy: 511, 106
+  size: 73, 33
+  orig: 256, 256
+  offset: 61, 112
+  index: -1
+dot_EF/sp_ef_1
+  rotate: false
+  xy: 0, 205
+  size: 233, 50
+  orig: 240, 128
+  offset: 5, 39
+  index: -1
+dot_EF/sp_ef_2
+  rotate: false
+  xy: 234, 157
+  size: 170, 98
+  orig: 240, 128
+  offset: 20, 16
+  index: -1
+dot_EF/sp_ef_3
+  rotate: false
+  xy: 0, 82
+  size: 147, 122
+  orig: 240, 128
+  offset: 73, 2
+  index: -1
+front_00
+  rotate: true
+  xy: 148, 99
+  size: 105, 75
+  orig: 256, 256
+  offset: 90, 88
+  index: -1
+idle2_00
+  rotate: true
+  xy: 0, 0
+  size: 81, 65
+  orig: 256, 256
+  offset: 101, 98
+  index: -1
+idle2_01
+  rotate: false
+  xy: 405, 111
+  size: 56, 68
+  orig: 256, 256
+  offset: 109, 98
+  index: -1
+idle_00
+  rotate: false
+  xy: 66, 7
+  size: 94, 74
+  orig: 256, 256
+  offset: 105, 98
+  index: -1
+idle_01
+  rotate: false
+  xy: 529, 184
+  size: 106, 71
+  orig: 256, 256
+  offset: 95, 98
+  index: -1
+idle_02
+  rotate: false
+  xy: 736, 178
+  size: 99, 77
+  orig: 256, 256
+  offset: 100, 98
+  index: -1
+idle_03
+  rotate: false
+  xy: 836, 173
+  size: 95, 82
+  orig: 256, 256
+  offset: 104, 98
+  index: -1
+kneel_00
+  rotate: true
+  xy: 462, 106
+  size: 73, 48
+  orig: 256, 256
+  offset: 109, 95
+  index: -1

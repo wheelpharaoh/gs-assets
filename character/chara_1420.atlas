@@ -1,0 +1,13 @@
+
+chara_1420.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MAIN
+  rotate: false
+  xy: 1, 1
+  size: 604, 795
+  orig: 606, 797
+  offset: 1, 1
+  index: -1

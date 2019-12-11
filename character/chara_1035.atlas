@@ -1,0 +1,69 @@
+
+chara_1035.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 734, 439
+  size: 117, 194
+  orig: 117, 194
+  offset: 0, 0
+  index: -1
+0002
+  rotate: false
+  xy: 1, 397
+  size: 591, 448
+  orig: 591, 448
+  offset: 0, 0
+  index: -1
+0003
+  rotate: false
+  xy: 1, 224
+  size: 205, 171
+  orig: 205, 171
+  offset: 0, 0
+  index: -1
+0004
+  rotate: false
+  xy: 1, 1
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: true
+  xy: 208, 257
+  size: 138, 210
+  orig: 138, 210
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 594, 423
+  size: 138, 210
+  orig: 138, 210
+  offset: 0, 0
+  index: -1
+face_03
+  rotate: false
+  xy: 738, 635
+  size: 138, 210
+  orig: 138, 210
+  offset: 0, 0
+  index: -1
+face_04
+  rotate: false
+  xy: 594, 635
+  size: 142, 210
+  orig: 142, 210
+  offset: 0, 0
+  index: -1
+face_05
+  rotate: false
+  xy: 1, 11
+  size: 138, 211
+  orig: 138, 211
+  offset: 0, 0
+  index: -1

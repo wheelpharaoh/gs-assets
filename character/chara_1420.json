@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"BWHFXNZk1IE/TQX6nW6/CLcpS08","spine":"3.0.12","width":606,"height":797},"bones":[{"name":"root"}],"slots":[{"name":"MAIN","bone":"root","attachment":"MAIN"}],"skins":{"default":{"MAIN":{"MAIN":{"x":40,"y":396.5,"width":606,"height":797}}}},"animations":{"100":{"slots":{"MAIN":{"attachment":[{"time":0,"name":"MAIN"}]}}}}}

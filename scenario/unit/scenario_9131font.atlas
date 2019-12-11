@@ -1,0 +1,34 @@
+
+scenario_9131font.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Font_render_00001
+  rotate: false
+  xy: 1, 118
+  size: 114, 133
+  orig: 141, 150
+  offset: 13, 8
+  index: -1
+Font_render_00002
+  rotate: true
+  xy: 1, 1
+  size: 115, 131
+  orig: 141, 150
+  offset: 12, 10
+  index: -1
+Font_render_00003
+  rotate: true
+  xy: 117, 137
+  size: 114, 133
+  orig: 141, 150
+  offset: 13, 9
+  index: -1
+Font_render_00004
+  rotate: false
+  xy: 134, 3
+  size: 114, 132
+  orig: 141, 150
+  offset: 13, 9
+  index: -1

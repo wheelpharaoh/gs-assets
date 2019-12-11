@@ -1,0 +1,160 @@
+
+scenario_9082.png
+size: 2048,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+EF/700_S2_shine1_00001
+  rotate: false
+  xy: 1, 84
+  size: 241, 158
+  orig: 250, 250
+  offset: 5, 48
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00038
+  rotate: true
+  xy: 1120, 86
+  size: 24, 102
+  orig: 169, 225
+  offset: 70, 2
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00039
+  rotate: false
+  xy: 1485, 15
+  size: 24, 144
+  orig: 169, 225
+  offset: 70, 3
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00040
+  rotate: true
+  xy: 906, 135
+  size: 24, 213
+  orig: 169, 225
+  offset: 70, 5
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00041
+  rotate: true
+  xy: 906, 110
+  size: 24, 213
+  orig: 169, 225
+  offset: 70, 5
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00042
+  rotate: true
+  xy: 1120, 135
+  size: 24, 213
+  orig: 169, 225
+  offset: 70, 5
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00043
+  rotate: true
+  xy: 906, 85
+  size: 24, 213
+  orig: 169, 225
+  offset: 70, 5
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00044
+  rotate: true
+  xy: 1120, 111
+  size: 23, 163
+  orig: 169, 225
+  offset: 71, 55
+  index: -1
+EF/S1_arrow2/480_S1_arrow2_00045
+  rotate: false
+  xy: 2011, 171
+  size: 24, 71
+  orig: 169, 225
+  offset: 70, 151
+  index: -1
+EF/mask
+  rotate: false
+  xy: 1334, 9
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EF/signal_DOT/130_S2_shine1_00042
+  rotate: false
+  xy: 243, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00044
+  rotate: false
+  xy: 464, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00046
+  rotate: false
+  xy: 685, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00048
+  rotate: false
+  xy: 906, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00050
+  rotate: false
+  xy: 1127, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00052
+  rotate: false
+  xy: 1348, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00054
+  rotate: false
+  xy: 1569, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00056
+  rotate: false
+  xy: 1790, 160
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00058
+  rotate: false
+  xy: 243, 77
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00060
+  rotate: false
+  xy: 464, 77
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00062
+  rotate: false
+  xy: 685, 77
+  size: 220, 82
+  orig: 320, 320
+  offset: 50, 87
+  index: -1
+EF/signal_DOT/130_S2_shine1_00064
+  rotate: false
+  xy: 1, 1
+  size: 221, 82
+  orig: 320, 320
+  offset: 49, 87
+  index: -1

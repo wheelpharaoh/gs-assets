@@ -1,0 +1,48 @@
+
+chara_1180.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 33
+  size: 491, 448
+  orig: 491, 448
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 494, 323
+  size: 192, 158
+  orig: 192, 158
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 494, 163
+  size: 192, 158
+  orig: 192, 158
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 688, 323
+  size: 192, 158
+  orig: 192, 158
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: false
+  xy: 688, 163
+  size: 192, 158
+  orig: 192, 158
+  offset: 0, 0
+  index: -1

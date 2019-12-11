@@ -1,0 +1,615 @@
+
+engraved_weapon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_flare_blue/ef_flare_blue_00001
+  rotate: true
+  xy: 569, 87
+  size: 283, 282
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_blue/ef_flare_blue_00002
+  rotate: true
+  xy: 1, 48
+  size: 285, 282
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_blue/ef_flare_blue_00003
+  rotate: true
+  xy: 1, 621
+  size: 287, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_blue/ef_flare_blue_00004
+  rotate: false
+  xy: 1, 1763
+  size: 287, 284
+  orig: 300, 300
+  offset: 7, 8
+  index: -1
+ef_flare_blue/ef_flare_blue_00005
+  rotate: false
+  xy: 577, 1764
+  size: 286, 283
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_blue/ef_flare_blue_00006
+  rotate: false
+  xy: 577, 1196
+  size: 285, 283
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_blue/ef_flare_blue_00007
+  rotate: false
+  xy: 1, 909
+  size: 286, 283
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_blue/ef_flare_blue_00008
+  rotate: false
+  xy: 1, 1478
+  size: 287, 284
+  orig: 300, 300
+  offset: 6, 8
+  index: -1
+ef_flare_blue/ef_flare_blue_00009
+  rotate: false
+  xy: 289, 1196
+  size: 287, 282
+  orig: 300, 300
+  offset: 6, 9
+  index: -1
+ef_flare_blue/ef_flare_blue_00010
+  rotate: false
+  xy: 1727, 1765
+  size: 285, 282
+  orig: 300, 300
+  offset: 8, 9
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00001
+  rotate: false
+  xy: 1436, 1405
+  size: 282, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00002
+  rotate: false
+  xy: 1150, 1123
+  size: 284, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00003
+  rotate: true
+  xy: 1, 334
+  size: 286, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00004
+  rotate: false
+  xy: 864, 1481
+  size: 285, 283
+  orig: 300, 300
+  offset: 8, 9
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00005
+  rotate: false
+  xy: 284, 87
+  size: 284, 283
+  orig: 300, 300
+  offset: 8, 9
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00006
+  rotate: false
+  xy: 1435, 1121
+  size: 283, 283
+  orig: 300, 300
+  offset: 8, 9
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00007
+  rotate: false
+  xy: 375, 371
+  size: 285, 282
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00008
+  rotate: false
+  xy: 289, 1479
+  size: 287, 283
+  orig: 300, 300
+  offset: 6, 9
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00009
+  rotate: false
+  xy: 1440, 1766
+  size: 286, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_rainbow/ef_flare_rainbow_00010
+  rotate: false
+  xy: 1719, 1199
+  size: 284, 281
+  orig: 300, 300
+  offset: 8, 10
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00001
+  rotate: false
+  xy: 863, 916
+  size: 283, 282
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00002
+  rotate: false
+  xy: 1150, 1405
+  size: 285, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00003
+  rotate: false
+  xy: 1152, 1766
+  size: 287, 281
+  orig: 300, 300
+  offset: 7, 10
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00004
+  rotate: false
+  xy: 289, 1763
+  size: 287, 284
+  orig: 300, 300
+  offset: 7, 8
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00005
+  rotate: false
+  xy: 375, 654
+  size: 285, 283
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00006
+  rotate: false
+  xy: 1719, 1481
+  size: 284, 283
+  orig: 300, 300
+  offset: 8, 9
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00007
+  rotate: false
+  xy: 577, 1480
+  size: 286, 283
+  orig: 300, 300
+  offset: 7, 9
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00008
+  rotate: false
+  xy: 1, 1193
+  size: 287, 284
+  orig: 300, 300
+  offset: 6, 8
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00009
+  rotate: false
+  xy: 864, 1765
+  size: 287, 282
+  orig: 300, 300
+  offset: 6, 9
+  index: -1
+ef_flare_yellow/ef_flare_yellow_00010
+  rotate: false
+  xy: 864, 1199
+  size: 285, 281
+  orig: 300, 300
+  offset: 8, 10
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00002
+  rotate: false
+  xy: 1507, 936
+  size: 152, 94
+  orig: 600, 300
+  offset: 329, 104
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00003
+  rotate: false
+  xy: 661, 461
+  size: 227, 99
+  orig: 600, 300
+  offset: 265, 102
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00004
+  rotate: false
+  xy: 1147, 1027
+  size: 270, 95
+  orig: 600, 300
+  offset: 220, 105
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00005
+  rotate: false
+  xy: 1719, 1106
+  size: 301, 92
+  orig: 600, 300
+  offset: 189, 108
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00006
+  rotate: false
+  xy: 1096, 584
+  size: 338, 92
+  orig: 600, 300
+  offset: 150, 106
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00007
+  rotate: false
+  xy: 1147, 932
+  size: 359, 94
+  orig: 600, 300
+  offset: 133, 107
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00008
+  rotate: false
+  xy: 1147, 839
+  size: 367, 92
+  orig: 600, 300
+  offset: 123, 106
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00009
+  rotate: false
+  xy: 288, 938
+  size: 377, 83
+  orig: 600, 300
+  offset: 111, 110
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00010
+  rotate: true
+  xy: 283, 519
+  size: 389, 91
+  orig: 600, 300
+  offset: 100, 106
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00011
+  rotate: false
+  xy: 284, 1
+  size: 373, 85
+  orig: 600, 300
+  offset: 96, 114
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00012
+  rotate: false
+  xy: 1660, 948
+  size: 247, 69
+  orig: 600, 300
+  offset: 96, 120
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00013
+  rotate: false
+  xy: 1525, 1708
+  size: 164, 57
+  orig: 600, 300
+  offset: 96, 125
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00014
+  rotate: false
+  xy: 672, 1057
+  size: 112, 49
+  orig: 600, 300
+  offset: 95, 129
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00015
+  rotate: false
+  xy: 108, 1
+  size: 89, 46
+  orig: 600, 300
+  offset: 96, 130
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00016
+  rotate: true
+  xy: 1096, 849
+  size: 66, 42
+  orig: 600, 300
+  offset: 96, 132
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00017
+  rotate: false
+  xy: 1562, 673
+  size: 56, 40
+  orig: 600, 300
+  offset: 96, 133
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00018
+  rotate: true
+  xy: 198, 1
+  size: 46, 38
+  orig: 600, 300
+  offset: 96, 134
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00019
+  rotate: false
+  xy: 2013, 1958
+  size: 34, 36
+  orig: 600, 300
+  offset: 96, 135
+  index: -1
+ef_moji_blur_blue/ef_moji_blur_blue_00020
+  rotate: false
+  xy: 1435, 642
+  size: 29, 34
+  orig: 600, 300
+  offset: 96, 136
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00002
+  rotate: true
+  xy: 283, 371
+  size: 147, 90
+  orig: 600, 300
+  offset: 331, 106
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00003
+  rotate: true
+  xy: 1465, 616
+  size: 222, 96
+  orig: 600, 300
+  offset: 267, 104
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00004
+  rotate: true
+  xy: 852, 106
+  size: 264, 91
+  orig: 600, 300
+  offset: 222, 107
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00005
+  rotate: false
+  xy: 1418, 1031
+  size: 297, 89
+  orig: 600, 300
+  offset: 190, 110
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00006
+  rotate: false
+  xy: 1096, 495
+  size: 334, 88
+  orig: 600, 300
+  offset: 152, 108
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00007
+  rotate: true
+  xy: 741, 561
+  size: 354, 89
+  orig: 600, 300
+  offset: 135, 109
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00008
+  rotate: true
+  xy: 921, 552
+  size: 363, 87
+  orig: 600, 300
+  offset: 124, 109
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00009
+  rotate: true
+  xy: 661, 565
+  size: 372, 79
+  orig: 600, 300
+  offset: 113, 112
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00010
+  rotate: false
+  xy: 289, 1107
+  size: 383, 88
+  orig: 600, 300
+  offset: 103, 108
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00011
+  rotate: false
+  xy: 1096, 757
+  size: 368, 81
+  orig: 600, 300
+  offset: 98, 116
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00012
+  rotate: false
+  xy: 1657, 818
+  size: 242, 65
+  orig: 600, 300
+  offset: 98, 122
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00013
+  rotate: false
+  xy: 1657, 763
+  size: 160, 54
+  orig: 600, 300
+  offset: 98, 127
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00014
+  rotate: false
+  xy: 1, 1
+  size: 106, 46
+  orig: 600, 300
+  offset: 98, 130
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00015
+  rotate: true
+  xy: 2004, 1572
+  size: 85, 43
+  orig: 600, 300
+  offset: 98, 132
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00016
+  rotate: true
+  xy: 2004, 1509
+  size: 62, 39
+  orig: 600, 300
+  offset: 98, 134
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00017
+  rotate: true
+  xy: 821, 1109
+  size: 52, 36
+  orig: 600, 300
+  offset: 98, 136
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00018
+  rotate: true
+  xy: 2014, 1063
+  size: 42, 33
+  orig: 600, 300
+  offset: 98, 137
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00019
+  rotate: true
+  xy: 889, 530
+  size: 30, 31
+  orig: 600, 300
+  offset: 98, 138
+  index: -1
+ef_moji_blur_rainbow/ef_moji_blur_rainbow_00020
+  rotate: true
+  xy: 1435, 616
+  size: 25, 29
+  orig: 600, 300
+  offset: 98, 139
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00002
+  rotate: false
+  xy: 673, 1107
+  size: 147, 88
+  orig: 600, 300
+  offset: 332, 107
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00003
+  rotate: true
+  xy: 1562, 714
+  size: 221, 94
+  orig: 600, 300
+  offset: 268, 104
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00004
+  rotate: false
+  xy: 661, 371
+  size: 265, 89
+  orig: 600, 300
+  offset: 222, 108
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00005
+  rotate: false
+  xy: 1716, 1018
+  size: 297, 87
+  orig: 600, 300
+  offset: 191, 111
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00006
+  rotate: false
+  xy: 658, 1
+  size: 332, 85
+  orig: 600, 300
+  offset: 153, 109
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00007
+  rotate: true
+  xy: 831, 561
+  size: 354, 89
+  orig: 600, 300
+  offset: 136, 109
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00008
+  rotate: true
+  xy: 1009, 554
+  size: 361, 86
+  orig: 600, 300
+  offset: 126, 109
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00009
+  rotate: false
+  xy: 1152, 1687
+  size: 372, 78
+  orig: 600, 300
+  offset: 114, 112
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00010
+  rotate: false
+  xy: 288, 1022
+  size: 383, 84
+  orig: 600, 300
+  offset: 104, 110
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00011
+  rotate: false
+  xy: 1096, 677
+  size: 368, 79
+  orig: 600, 300
+  offset: 99, 117
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00012
+  rotate: false
+  xy: 1660, 884
+  size: 243, 63
+  orig: 600, 300
+  offset: 98, 123
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00013
+  rotate: false
+  xy: 1657, 711
+  size: 160, 51
+  orig: 600, 300
+  offset: 98, 128
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00014
+  rotate: true
+  xy: 2004, 1658
+  size: 106, 43
+  orig: 600, 300
+  offset: 98, 132
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00015
+  rotate: false
+  xy: 1908, 977
+  size: 84, 40
+  orig: 600, 300
+  offset: 98, 133
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00016
+  rotate: false
+  xy: 1818, 781
+  size: 61, 36
+  orig: 600, 300
+  offset: 98, 135
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00017
+  rotate: true
+  xy: 2013, 1995
+  size: 52, 34
+  orig: 600, 300
+  offset: 98, 136
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00018
+  rotate: false
+  xy: 821, 1162
+  size: 41, 33
+  orig: 600, 300
+  offset: 98, 136
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00019
+  rotate: false
+  xy: 1435, 585
+  size: 30, 30
+  orig: 600, 300
+  offset: 98, 138
+  index: -1
+ef_moji_blur_yellow/ef_moji_blur_yellow_00020
+  rotate: true
+  xy: 288, 914
+  size: 23, 30
+  orig: 600, 300
+  offset: 99, 138
+  index: -1

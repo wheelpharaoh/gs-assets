@@ -1,0 +1,104 @@
+
+scenario_9084.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+EF/ether2/ether2_00001
+  rotate: false
+  xy: 512, 179
+  size: 171, 145
+  orig: 200, 200
+  offset: 27, 29
+  index: -1
+EF/ether2/ether2_00002
+  rotate: false
+  xy: 512, 325
+  size: 171, 147
+  orig: 200, 200
+  offset: 27, 30
+  index: -1
+EF/ether2/ether2_00003
+  rotate: false
+  xy: 684, 325
+  size: 171, 147
+  orig: 200, 200
+  offset: 27, 30
+  index: -1
+EF/ether2/ether2_00004
+  rotate: false
+  xy: 684, 177
+  size: 170, 147
+  orig: 200, 200
+  offset: 27, 30
+  index: -1
+EF/ether2/ether2_00005
+  rotate: false
+  xy: 172, 173
+  size: 170, 146
+  orig: 200, 200
+  offset: 27, 30
+  index: -1
+EF/ether2/ether2_00006
+  rotate: false
+  xy: 509, 30
+  size: 169, 148
+  orig: 200, 200
+  offset: 29, 29
+  index: -1
+EF/ether2/ether2_00007
+  rotate: false
+  xy: 172, 320
+  size: 170, 152
+  orig: 200, 200
+  offset: 29, 29
+  index: -1
+EF/ether2/ether2_00008
+  rotate: false
+  xy: 1, 318
+  size: 170, 154
+  orig: 200, 200
+  offset: 29, 29
+  index: -1
+EF/ether2/ether2_00009
+  rotate: false
+  xy: 343, 319
+  size: 168, 153
+  orig: 200, 200
+  offset: 30, 29
+  index: -1
+EF/ether2/ether2_00010
+  rotate: false
+  xy: 1, 160
+  size: 166, 157
+  orig: 200, 200
+  offset: 31, 29
+  index: -1
+EF/ether2/ether2_00011
+  rotate: false
+  xy: 1, 1
+  size: 164, 158
+  orig: 200, 200
+  offset: 33, 29
+  index: -1
+EF/ether2/ether2_00012
+  rotate: false
+  xy: 343, 165
+  size: 165, 153
+  orig: 200, 200
+  offset: 32, 30
+  index: -1
+EF/ether2/ether2_00013
+  rotate: false
+  xy: 855, 173
+  size: 166, 146
+  orig: 200, 200
+  offset: 31, 31
+  index: -1
+EF/ether2/ether2_00014
+  rotate: false
+  xy: 856, 320
+  size: 166, 152
+  orig: 200, 200
+  offset: 31, 30
+  index: -1

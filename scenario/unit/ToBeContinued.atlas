@@ -1,0 +1,83 @@
+
+ToBeContinued.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 93, 3
+  size: 43, 45
+  orig: 64, 64
+  offset: 12, 7
+  index: -1
+C
+  rotate: false
+  xy: 1, 1
+  size: 46, 47
+  orig: 64, 64
+  offset: 11, 6
+  index: -1
+T2
+  rotate: false
+  xy: 48, 2
+  size: 44, 46
+  orig: 64, 64
+  offset: 10, 6
+  index: -1
+d
+  rotate: true
+  xy: 137, 9
+  size: 39, 46
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+e
+  rotate: false
+  xy: 184, 10
+  size: 39, 38
+  orig: 64, 64
+  offset: 14, 6
+  index: -1
+i
+  rotate: true
+  xy: 385, 30
+  size: 18, 45
+  orig: 64, 64
+  offset: 25, 7
+  index: -1
+n
+  rotate: false
+  xy: 309, 11
+  size: 37, 37
+  orig: 64, 64
+  offset: 16, 7
+  index: -1
+o
+  rotate: false
+  xy: 224, 10
+  size: 39, 38
+  orig: 64, 64
+  offset: 12, 6
+  index: -1
+period
+  rotate: false
+  xy: 385, 11
+  size: 18, 18
+  orig: 64, 64
+  offset: 24, 6
+  index: -1
+t
+  rotate: true
+  xy: 264, 17
+  size: 31, 44
+  orig: 64, 64
+  offset: 18, 6
+  index: -1
+u
+  rotate: false
+  xy: 347, 11
+  size: 37, 37
+  orig: 64, 64
+  offset: 16, 6
+  index: -1

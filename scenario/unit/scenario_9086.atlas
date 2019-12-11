@@ -1,0 +1,83 @@
+
+scenario_9086.png
+size: 1024,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Tower/parallax_10000_1_layer_01
+  rotate: false
+  xy: 1, 1022
+  size: 640, 512
+  orig: 640, 512
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_02
+  rotate: false
+  xy: 1, 1
+  size: 698, 79
+  orig: 698, 256
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_03
+  rotate: true
+  xy: 550, 323
+  size: 698, 159
+  orig: 698, 256
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_05
+  rotate: false
+  xy: 1, 81
+  size: 698, 235
+  orig: 698, 256
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_07
+  rotate: true
+  xy: 294, 323
+  size: 698, 255
+  orig: 698, 256
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_08
+  rotate: false
+  xy: 1, 1535
+  size: 704, 512
+  orig: 704, 512
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_09
+  rotate: true
+  xy: 1, 317
+  size: 704, 292
+  orig: 704, 293
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_10
+  rotate: true
+  xy: 710, 766
+  size: 698, 157
+  orig: 698, 512
+  offset: 0, 0
+  index: -1
+Tower/parallax_10000_1_layer_11
+  rotate: false
+  xy: 706, 1465
+  size: 252, 582
+  orig: 346, 583
+  offset: 94, 1
+  index: -1
+Tower/parallax_10000_1_layer_12
+  rotate: true
+  xy: 868, 1234
+  size: 230, 66
+  orig: 232, 68
+  offset: 1, 1
+  index: -1
+Tower/parallax_10000_1_layer_13
+  rotate: false
+  xy: 710, 410
+  size: 108, 355
+  orig: 110, 356
+  offset: 1, 1
+  index: -1

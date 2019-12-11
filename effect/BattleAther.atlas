@@ -1,0 +1,104 @@
+
+BattleAther.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ether1/ether1_00001
+  rotate: false
+  xy: 98, 396
+  size: 96, 97
+  orig: 100, 100
+  offset: 4, 1
+  index: -1
+ether1/ether1_00003
+  rotate: false
+  xy: 1, 293
+  size: 96, 99
+  orig: 100, 100
+  offset: 4, 0
+  index: -1
+ether1/ether1_00005
+  rotate: false
+  xy: 1, 393
+  size: 96, 100
+  orig: 100, 100
+  offset: 4, 0
+  index: -1
+ether1/ether1_00007
+  rotate: false
+  xy: 1, 194
+  size: 94, 98
+  orig: 100, 100
+  offset: 6, 2
+  index: -1
+ether1/ether1_00009
+  rotate: false
+  xy: 1, 1
+  size: 93, 94
+  orig: 100, 100
+  offset: 7, 6
+  index: -1
+ether1/ether1_00011
+  rotate: false
+  xy: 195, 310
+  size: 93, 90
+  orig: 100, 100
+  offset: 7, 9
+  index: -1
+ether1/ether1_00013
+  rotate: false
+  xy: 285, 217
+  size: 92, 91
+  orig: 100, 100
+  offset: 8, 9
+  index: -1
+ether1/ether1_00015
+  rotate: false
+  xy: 289, 309
+  size: 93, 91
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+ether1/ether1_00017
+  rotate: false
+  xy: 191, 218
+  size: 93, 91
+  orig: 100, 100
+  offset: 7, 6
+  index: -1
+ether1/ether1_00019
+  rotate: false
+  xy: 294, 401
+  size: 94, 92
+  orig: 100, 100
+  offset: 6, 6
+  index: -1
+ether1/ether1_00021
+  rotate: false
+  xy: 389, 403
+  size: 95, 90
+  orig: 100, 100
+  offset: 5, 6
+  index: -1
+ether1/ether1_00023
+  rotate: false
+  xy: 195, 401
+  size: 98, 92
+  orig: 100, 100
+  offset: 2, 5
+  index: -1
+ether1/ether1_00025
+  rotate: true
+  xy: 98, 296
+  size: 99, 92
+  orig: 100, 100
+  offset: 1, 4
+  index: -1
+ether1/ether1_00027
+  rotate: true
+  xy: 1, 96
+  size: 97, 93
+  orig: 100, 100
+  offset: 3, 4
+  index: -1

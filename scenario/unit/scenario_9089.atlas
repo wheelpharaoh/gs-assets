@@ -1,0 +1,34 @@
+
+scenario_9089.png
+size: 2048,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+EF/line/sklline_00000
+  rotate: false
+  xy: 1, 1
+  size: 504, 504
+  orig: 504, 504
+  offset: 0, 0
+  index: -1
+EF/line/sklline_00002
+  rotate: false
+  xy: 506, 1
+  size: 504, 504
+  orig: 504, 504
+  offset: 0, 0
+  index: -1
+EF/line/sklline_00004
+  rotate: false
+  xy: 1011, 1
+  size: 504, 504
+  orig: 504, 504
+  offset: 0, 0
+  index: -1
+EF/line/sklline_00006
+  rotate: false
+  xy: 1516, 1
+  size: 504, 504
+  orig: 504, 504
+  offset: 0, 0
+  index: -1

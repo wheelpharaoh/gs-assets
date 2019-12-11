@@ -1,0 +1,181 @@
+
+transform.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOX-large00
+  rotate: false
+  xy: 1037, 331
+  size: 166, 180
+  orig: 192, 192
+  offset: 10, 2
+  index: -1
+BOX-large01
+  rotate: false
+  xy: 1204, 331
+  size: 166, 180
+  orig: 192, 192
+  offset: 10, 2
+  index: -1
+BOX-small00
+  rotate: true
+  xy: 303, 21
+  size: 92, 94
+  orig: 96, 96
+  offset: 2, 0
+  index: -1
+BOX-small01
+  rotate: true
+  xy: 822, 205
+  size: 92, 94
+  orig: 96, 96
+  offset: 2, 0
+  index: -1
+ef_wave_gold/1040_A1_pt1_00002
+  rotate: false
+  xy: 1409, 147
+  size: 103, 99
+  orig: 240, 240
+  offset: 69, 71
+  index: -1
+ef_wave_gold/1040_A1_pt1_00003
+  rotate: true
+  xy: 1409, 247
+  size: 116, 113
+  orig: 240, 240
+  offset: 62, 63
+  index: -1
+ef_wave_gold/1040_A1_pt1_00004
+  rotate: true
+  xy: 1289, 208
+  size: 122, 119
+  orig: 240, 240
+  offset: 59, 60
+  index: -1
+ef_wave_gold/1040_A1_pt1_00005
+  rotate: false
+  xy: 1164, 209
+  size: 124, 121
+  orig: 240, 240
+  offset: 58, 59
+  index: -1
+ef_wave_gold/1040_A1_pt1_00006
+  rotate: false
+  xy: 1037, 208
+  size: 126, 122
+  orig: 240, 240
+  offset: 57, 58
+  index: -1
+ef_wave_gold/1040_A1_pt1_00007
+  rotate: false
+  xy: 432, 116
+  size: 128, 123
+  orig: 240, 240
+  offset: 56, 58
+  index: -1
+ef_wave_gold/1040_A1_pt1_00008
+  rotate: false
+  xy: 303, 114
+  size: 128, 125
+  orig: 240, 240
+  offset: 56, 57
+  index: -1
+ef_wave_gold/1040_A1_pt1_00009
+  rotate: false
+  xy: 1653, 384
+  size: 130, 127
+  orig: 240, 240
+  offset: 55, 56
+  index: -1
+ef_wave_gold/1040_A1_pt1_00010
+  rotate: false
+  xy: 1520, 383
+  size: 132, 128
+  orig: 240, 240
+  offset: 54, 56
+  index: -1
+ef_wave_gold/1040_A1_pt1_00011
+  rotate: false
+  xy: 1917, 386
+  size: 130, 125
+  orig: 240, 240
+  offset: 56, 59
+  index: -1
+ef_wave_gold/1040_A1_pt1_00012
+  rotate: false
+  xy: 1784, 387
+  size: 132, 124
+  orig: 240, 240
+  offset: 55, 61
+  index: -1
+ef_wave_gold/1040_A1_pt1_00013
+  rotate: true
+  xy: 180, 81
+  size: 131, 122
+  orig: 240, 240
+  offset: 56, 63
+  index: -1
+ef_wave_gold/1040_A1_pt1_00014
+  rotate: false
+  xy: 432, 1
+  size: 123, 114
+  orig: 240, 240
+  offset: 60, 66
+  index: -1
+ef_wave_gold/1040_A1_pt1_00015
+  rotate: false
+  xy: 1523, 278
+  size: 107, 104
+  orig: 240, 240
+  offset: 70, 72
+  index: -1
+ef_wave_gold/1040_A1_pt1_00016
+  rotate: false
+  xy: 917, 211
+  size: 93, 86
+  orig: 240, 240
+  offset: 75, 80
+  index: -1
+ef_wave_yellow/ef_wave_yellow_00001
+  rotate: false
+  xy: 1371, 364
+  size: 148, 147
+  orig: 320, 320
+  offset: 86, 87
+  index: -1
+ef_wave_yellow/ef_wave_yellow_00002
+  rotate: false
+  xy: 1, 37
+  size: 178, 175
+  orig: 320, 320
+  offset: 71, 73
+  index: -1
+ef_wave_yellow/ef_wave_yellow_00003
+  rotate: false
+  xy: 822, 298
+  size: 214, 213
+  orig: 320, 320
+  offset: 53, 54
+  index: -1
+ef_wave_yellow/ef_wave_yellow_00004
+  rotate: false
+  xy: 573, 266
+  size: 248, 245
+  orig: 320, 320
+  offset: 36, 38
+  index: -1
+ef_wave_yellow/ef_wave_yellow_00005
+  rotate: false
+  xy: 300, 240
+  size: 272, 271
+  orig: 320, 320
+  offset: 24, 25
+  index: -1
+ef_wave_yellow/ef_wave_yellow_00006
+  rotate: false
+  xy: 1, 213
+  size: 298, 298
+  orig: 320, 320
+  offset: 11, 11
+  index: -1

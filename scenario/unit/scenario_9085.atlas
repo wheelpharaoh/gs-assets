@@ -1,0 +1,69 @@
+
+scenario_9085.png
+size: 2048,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+EF/warp1a/warp1a_00001
+  rotate: false
+  xy: 1, 567
+  size: 433, 443
+  orig: 500, 500
+  offset: 26, 25
+  index: -1
+EF/warp1b/warp1b_00005
+  rotate: false
+  xy: 1, 261
+  size: 360, 305
+  orig: 500, 500
+  offset: 115, 176
+  index: -1
+EF/warp1b/warp1b_00006
+  rotate: false
+  xy: 1153, 706
+  size: 350, 304
+  orig: 500, 500
+  offset: 124, 181
+  index: -1
+EF/warp1b/warp1b_00007
+  rotate: false
+  xy: 799, 704
+  size: 353, 306
+  orig: 500, 500
+  offset: 121, 182
+  index: -1
+EF/warp1b/warp1b_00008
+  rotate: false
+  xy: 435, 710
+  size: 363, 300
+  orig: 500, 500
+  offset: 111, 183
+  index: -1
+EF/warp1b/warp1b_00009
+  rotate: false
+  xy: 435, 458
+  size: 348, 251
+  orig: 500, 500
+  offset: 125, 228
+  index: -1
+EF/warp1b/warp1b_00010
+  rotate: false
+  xy: 1, 1
+  size: 353, 259
+  orig: 500, 500
+  offset: 120, 227
+  index: -1
+EF/warp1b/warp1b_00011
+  rotate: false
+  xy: 1504, 748
+  size: 348, 262
+  orig: 500, 500
+  offset: 119, 228
+  index: -1
+EF/warp1b/warp1b_00012
+  rotate: false
+  xy: 784, 438
+  size: 297, 265
+  orig: 500, 500
+  offset: 116, 230
+  index: -1

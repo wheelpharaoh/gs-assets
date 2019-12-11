@@ -1,0 +1,83 @@
+
+chara_1190.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1, 383
+  size: 768, 640
+  orig: 768, 640
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 901, 940
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 1, 1
+  size: 146, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 771, 715
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 261, 377
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 1, 236
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 771, 878
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 1, 89
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: false
+  xy: 771, 731
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+face_5
+  rotate: false
+  xy: 131, 236
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+face_6
+  rotate: false
+  xy: 131, 89
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,370 @@
+
+queststart.png
+size: 1024,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+black_board_main/black_board_main_00001
+  rotate: false
+  xy: 1, 217
+  size: 165, 32
+  orig: 210, 284
+  offset: 22, 145
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00003
+  rotate: false
+  xy: 1, 171
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00005
+  rotate: false
+  xy: 1, 125
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00007
+  rotate: false
+  xy: 1, 79
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00009
+  rotate: false
+  xy: 1, 33
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00011
+  rotate: false
+  xy: 167, 204
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00013
+  rotate: false
+  xy: 310, 204
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00015
+  rotate: false
+  xy: 453, 204
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00017
+  rotate: false
+  xy: 882, 204
+  size: 141, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main/ui_start_flare_main_00019
+  rotate: false
+  xy: 160, 66
+  size: 141, 45
+  orig: 145, 45
+  offset: 3, 0
+  index: -1
+ui_start_flare_Re_main_white/ui_start_flare_main_00007
+  rotate: false
+  xy: 596, 204
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main_white/ui_start_flare_main_00009
+  rotate: false
+  xy: 739, 204
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main_white/ui_start_flare_main_00011
+  rotate: false
+  xy: 160, 158
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main_white/ui_start_flare_main_00013
+  rotate: false
+  xy: 160, 112
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flare_Re_main_white/ui_start_flare_main_00015
+  rotate: false
+  xy: 303, 158
+  size: 142, 45
+  orig: 145, 45
+  offset: 2, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00001
+  rotate: true
+  xy: 987, 116
+  size: 36, 9
+  orig: 140, 50
+  offset: 28, 41
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00002
+  rotate: true
+  xy: 746, 58
+  size: 55, 24
+  orig: 140, 50
+  offset: 21, 26
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00003
+  rotate: false
+  xy: 852, 15
+  size: 74, 40
+  orig: 140, 50
+  offset: 8, 10
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00004
+  rotate: false
+  xy: 397, 107
+  size: 78, 50
+  orig: 140, 50
+  offset: 10, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00005
+  rotate: false
+  xy: 692, 114
+  size: 78, 50
+  orig: 140, 50
+  offset: 12, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00006
+  rotate: false
+  xy: 396, 56
+  size: 87, 50
+  orig: 140, 50
+  offset: 13, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00007
+  rotate: false
+  xy: 484, 57
+  size: 89, 50
+  orig: 140, 50
+  offset: 21, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00008
+  rotate: false
+  xy: 912, 153
+  size: 90, 50
+  orig: 140, 50
+  offset: 26, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00009
+  rotate: false
+  xy: 303, 107
+  size: 93, 50
+  orig: 140, 50
+  offset: 31, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00010
+  rotate: false
+  xy: 771, 130
+  size: 88, 50
+  orig: 140, 50
+  offset: 40, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00011
+  rotate: false
+  xy: 663, 63
+  size: 82, 50
+  orig: 140, 50
+  offset: 48, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00012
+  rotate: false
+  xy: 771, 28
+  size: 80, 50
+  orig: 140, 50
+  offset: 52, 0
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00013
+  rotate: true
+  xy: 860, 102
+  size: 78, 45
+  orig: 140, 50
+  offset: 55, 5
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00014
+  rotate: false
+  xy: 933, 61
+  size: 73, 40
+  orig: 140, 50
+  offset: 58, 10
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00015
+  rotate: false
+  xy: 1, 1
+  size: 66, 31
+  orig: 140, 50
+  offset: 61, 19
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00016
+  rotate: false
+  xy: 68, 9
+  size: 58, 23
+  orig: 140, 50
+  offset: 64, 27
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00017
+  rotate: true
+  xy: 1003, 154
+  size: 49, 18
+  orig: 140, 50
+  offset: 68, 32
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00018
+  rotate: true
+  xy: 567, 120
+  size: 38, 11
+  orig: 140, 50
+  offset: 74, 39
+  index: -1
+ui_start_flash_main/ui_start_flash_main_00019
+  rotate: true
+  xy: 987, 102
+  size: 13, 2
+  orig: 140, 50
+  offset: 85, 48
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00007
+  rotate: false
+  xy: 602, 114
+  size: 89, 50
+  orig: 140, 50
+  offset: 21, 0
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00008
+  rotate: false
+  xy: 476, 108
+  size: 90, 50
+  orig: 140, 50
+  offset: 26, 0
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00009
+  rotate: false
+  xy: 302, 56
+  size: 93, 50
+  orig: 140, 50
+  offset: 31, 0
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00010
+  rotate: false
+  xy: 574, 63
+  size: 88, 50
+  orig: 140, 50
+  offset: 40, 0
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00011
+  rotate: false
+  xy: 771, 79
+  size: 82, 50
+  orig: 140, 50
+  offset: 48, 0
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00012
+  rotate: false
+  xy: 906, 102
+  size: 80, 50
+  orig: 140, 50
+  offset: 52, 0
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00013
+  rotate: false
+  xy: 854, 56
+  size: 78, 45
+  orig: 140, 50
+  offset: 55, 5
+  index: -1
+ui_start_flash_main_white/ui_start_flash_main_00014
+  rotate: false
+  xy: 574, 22
+  size: 73, 40
+  orig: 140, 50
+  offset: 58, 10
+  index: -1
+ui_start_line_main/ui_start_line_main_00002
+  rotate: false
+  xy: 160, 62
+  size: 94, 3
+  orig: 160, 20
+  offset: 33, 8
+  index: -1
+ui_start_line_main/ui_start_line_main_00003
+  rotate: false
+  xy: 758, 181
+  size: 147, 6
+  orig: 160, 20
+  offset: 7, 7
+  index: -1
+ui_start_line_main/ui_start_line_main_00004
+  rotate: false
+  xy: 602, 165
+  size: 153, 9
+  orig: 160, 20
+  offset: 4, 5
+  index: -1
+ui_start_line_main/ui_start_line_main_00005
+  rotate: false
+  xy: 602, 175
+  size: 155, 12
+  orig: 160, 20
+  offset: 3, 4
+  index: -1
+ui_start_line_main/ui_start_line_main_00006
+  rotate: false
+  xy: 446, 159
+  size: 155, 13
+  orig: 160, 20
+  offset: 3, 3
+  index: -1
+ui_start_line_main/ui_start_line_main_00007
+  rotate: false
+  xy: 446, 173
+  size: 155, 14
+  orig: 160, 20
+  offset: 3, 3
+  index: -1
+ui_start_line_main/ui_start_line_main_00008
+  rotate: true
+  xy: 144, 61
+  size: 155, 15
+  orig: 160, 20
+  offset: 3, 2
+  index: -1
+ui_start_line_main/ui_start_line_main_00009
+  rotate: false
+  xy: 446, 188
+  size: 155, 15
+  orig: 160, 20
+  offset: 3, 2
+  index: -1
+ui_start_line_main/ui_start_line_main_00010
+  rotate: false
+  xy: 602, 188
+  size: 154, 15
+  orig: 160, 20
+  offset: 3, 2
+  index: -1
+ui_start_line_main/ui_start_line_main_00010w
+  rotate: false
+  xy: 757, 188
+  size: 154, 15
+  orig: 160, 20
+  offset: 3, 2
+  index: -1

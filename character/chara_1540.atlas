@@ -1,0 +1,83 @@
+
+chara_1540.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_all_01
+  rotate: false
+  xy: 1, 62
+  size: 355, 192
+  orig: 357, 194
+  offset: 1, 1
+  index: -1
+a_all_02
+  rotate: false
+  xy: 1, 256
+  size: 356, 192
+  orig: 358, 194
+  offset: 1, 1
+  index: -1
+a_all_03
+  rotate: false
+  xy: 359, 256
+  size: 235, 192
+  orig: 237, 194
+  offset: 1, 1
+  index: -1
+a_face_f0_all_01
+  rotate: true
+  xy: 971, 328
+  size: 120, 36
+  orig: 122, 38
+  offset: 1, 1
+  index: -1
+a_face_f0_all_02
+  rotate: true
+  xy: 596, 258
+  size: 60, 128
+  orig: 62, 130
+  offset: 1, 1
+  index: -1
+face_100
+  rotate: false
+  xy: 358, 126
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 1
+  index: -1
+face_110
+  rotate: false
+  xy: 596, 320
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 1
+  index: -1
+face_120
+  rotate: false
+  xy: 721, 320
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 1
+  index: -1
+face_130
+  rotate: false
+  xy: 846, 320
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 1
+  index: -1
+face_140
+  rotate: false
+  xy: 483, 126
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 1
+  index: -1
+face_160
+  rotate: true
+  xy: 358, 1
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 1
+  index: -1
