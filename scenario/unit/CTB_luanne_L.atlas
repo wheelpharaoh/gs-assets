@@ -1,0 +1,146 @@
+
+CTB_luanne_L.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_luanne/chair
+  rotate: true
+  xy: 1, 30
+  size: 33, 82
+  orig: 256, 256
+  offset: 114, 88
+  index: -1
+images_luanne/eat_00_L
+  rotate: true
+  xy: 1, 2
+  size: 27, 41
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/idle2_00_L
+  rotate: false
+  xy: 128, 20
+  size: 31, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/idle3_00_L
+  rotate: false
+  xy: 160, 20
+  size: 31, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/idle_00_L
+  rotate: false
+  xy: 192, 20
+  size: 31, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/idle_01_L
+  rotate: false
+  xy: 192, 20
+  size: 31, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/idle_02_L
+  rotate: false
+  xy: 192, 20
+  size: 31, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_00_L
+  rotate: true
+  xy: 84, 31
+  size: 32, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_12_L
+  rotate: true
+  xy: 84, 31
+  size: 32, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_01_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_02_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_03_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_04_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_05_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_06_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_07_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_10_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_11_L
+  rotate: true
+  xy: 84, 1
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_08_L
+  rotate: false
+  xy: 224, 20
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1
+images_luanne/story_09_L
+  rotate: false
+  xy: 224, 20
+  size: 29, 43
+  orig: 256, 256
+  offset: 108, 91
+  index: -1

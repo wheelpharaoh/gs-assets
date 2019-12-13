@@ -1,0 +1,13 @@
+
+scenario_9101.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_00
+  rotate: true
+  xy: 1, 1
+  size: 31, 65
+  orig: 256, 256
+  offset: 117, 91
+  index: -1

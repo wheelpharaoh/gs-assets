@@ -1,0 +1,83 @@
+
+CTB_siistina_L.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_siistina/eat_00_L
+  rotate: false
+  xy: 314, 15
+  size: 31, 48
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/eat_01_L
+  rotate: false
+  xy: 379, 15
+  size: 30, 48
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/idle2_00_L
+  rotate: false
+  xy: 79, 2
+  size: 33, 61
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/idle3_00_L
+  rotate: false
+  xy: 147, 1
+  size: 32, 62
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/idle_00_L
+  rotate: false
+  xy: 180, 1
+  size: 32, 62
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/idle_01_L
+  rotate: false
+  xy: 213, 1
+  size: 32, 62
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/idle_02_L
+  rotate: false
+  xy: 246, 1
+  size: 32, 62
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/siistina_chair
+  rotate: true
+  xy: 1, 30
+  size: 33, 77
+  orig: 256, 256
+  offset: 114, 88
+  index: -1
+images_siistina/story_00_L
+  rotate: false
+  xy: 113, 2
+  size: 33, 61
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/story_01_L
+  rotate: false
+  xy: 279, 17
+  size: 34, 46
+  orig: 256, 256
+  offset: 110, 86
+  index: -1
+images_siistina/story_02_L
+  rotate: false
+  xy: 346, 17
+  size: 32, 46
+  orig: 256, 256
+  offset: 110, 86
+  index: -1

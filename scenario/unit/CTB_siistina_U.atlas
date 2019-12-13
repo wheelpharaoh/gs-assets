@@ -1,0 +1,195 @@
+
+CTB_siistina_U.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_siistina/eat_00_U
+  rotate: false
+  xy: 41, 25
+  size: 39, 37
+  orig: 256, 256
+  offset: 102, 110
+  index: -1
+images_siistina/eat_01_U
+  rotate: false
+  xy: 121, 25
+  size: 38, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_02_U
+  rotate: false
+  xy: 160, 25
+  size: 38, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_03_U
+  rotate: false
+  xy: 199, 25
+  size: 38, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_04_U
+  rotate: false
+  xy: 238, 25
+  size: 38, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_05_U
+  rotate: false
+  xy: 316, 25
+  size: 37, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_06_U
+  rotate: false
+  xy: 354, 25
+  size: 37, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_07_U
+  rotate: false
+  xy: 392, 25
+  size: 37, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_08_U
+  rotate: false
+  xy: 277, 25
+  size: 38, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_09_U
+  rotate: false
+  xy: 1, 24
+  size: 39, 38
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/eat_10_U
+  rotate: false
+  xy: 81, 25
+  size: 39, 37
+  orig: 256, 256
+  offset: 103, 110
+  index: -1
+images_siistina/idle2_00_U
+  rotate: false
+  xy: 29, 6
+  size: 19, 17
+  orig: 256, 256
+  offset: 118, 113
+  index: -1
+images_siistina/story_00_U
+  rotate: false
+  xy: 29, 6
+  size: 19, 17
+  orig: 256, 256
+  offset: 118, 113
+  index: -1
+images_siistina/idle3_00_U
+  rotate: false
+  xy: 49, 7
+  size: 18, 17
+  orig: 256, 256
+  offset: 118, 113
+  index: -1
+images_siistina/idle_00_U
+  rotate: false
+  xy: 49, 7
+  size: 18, 17
+  orig: 256, 256
+  offset: 118, 113
+  index: -1
+images_siistina/idle_01_U
+  rotate: false
+  xy: 49, 7
+  size: 18, 17
+  orig: 256, 256
+  offset: 118, 113
+  index: -1
+images_siistina/idle_02_U
+  rotate: false
+  xy: 49, 7
+  size: 18, 17
+  orig: 256, 256
+  offset: 118, 113
+  index: -1
+images_siistina/siistina_bread
+  rotate: false
+  xy: 1, 12
+  size: 27, 11
+  orig: 256, 256
+  offset: 81, 124
+  index: -1
+images_siistina/siistina_drink
+  rotate: true
+  xy: 496, 26
+  size: 10, 15
+  orig: 256, 256
+  offset: 78, 120
+  index: -1
+images_siistina/siistina_fish
+  rotate: false
+  xy: 1, 1
+  size: 25, 10
+  orig: 256, 256
+  offset: 73, 110
+  index: -1
+images_siistina/siistina_fork
+  rotate: false
+  xy: 68, 20
+  size: 13, 4
+  orig: 256, 256
+  offset: 114, 108
+  index: -1
+images_siistina/siistina_knife
+  rotate: false
+  xy: 82, 21
+  size: 14, 3
+  orig: 256, 256
+  offset: 93, 121
+  index: -1
+images_siistina/siistina_soup
+  rotate: false
+  xy: 430, 21
+  size: 22, 9
+  orig: 256, 256
+  offset: 99, 110
+  index: -1
+images_siistina/siistina_spoon
+  rotate: false
+  xy: 68, 15
+  size: 13, 4
+  orig: 256, 256
+  offset: 101, 118
+  index: -1
+images_siistina/siistina_steak
+  rotate: true
+  xy: 496, 37
+  size: 25, 13
+  orig: 256, 256
+  offset: 87, 101
+  index: -1
+images_siistina/story_01_U
+  rotate: false
+  xy: 430, 31
+  size: 32, 31
+  orig: 256, 256
+  offset: 114, 115
+  index: -1
+images_siistina/story_02_U
+  rotate: true
+  xy: 463, 34
+  size: 28, 32
+  orig: 256, 256
+  offset: 116, 114
+  index: -1

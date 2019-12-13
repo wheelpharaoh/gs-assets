@@ -1,0 +1,104 @@
+
+CTB_table.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_table/EF_candle/ef_flare_back_main_00001
+  rotate: false
+  xy: 141, 17
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00002
+  rotate: false
+  xy: 186, 17
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00008
+  rotate: false
+  xy: 186, 17
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00003
+  rotate: false
+  xy: 231, 17
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00007
+  rotate: false
+  xy: 231, 17
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00004
+  rotate: false
+  xy: 47, 15
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00006
+  rotate: false
+  xy: 47, 15
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+images_table/EF_candle/ef_flare_back_main_00005
+  rotate: false
+  xy: 94, 15
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+images_table/candlestick
+  rotate: true
+  xy: 328, 40
+  size: 21, 43
+  orig: 500, 500
+  offset: 240, 180
+  index: -1
+images_table/chair
+  rotate: true
+  xy: 1, 1
+  size: 60, 45
+  orig: 500, 500
+  offset: 221, 188
+  index: -1
+images_table/salad00
+  rotate: false
+  xy: 276, 18
+  size: 34, 16
+  orig: 500, 500
+  offset: 233, 137
+  index: -1
+images_table/salad01
+  rotate: false
+  xy: 372, 47
+  size: 29, 14
+  orig: 500, 500
+  offset: 236, 164
+  index: -1
+images_table/table
+  rotate: false
+  xy: 1, 62
+  size: 500, 193
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+images_table/turkey
+  rotate: false
+  xy: 276, 35
+  size: 51, 26
+  orig: 500, 500
+  offset: 224, 151
+  index: -1

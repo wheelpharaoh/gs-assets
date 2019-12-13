@@ -1,0 +1,209 @@
+
+CTB_liza_L.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_liza/eat_00_L
+  rotate: true
+  xy: 175, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_02_L
+  rotate: true
+  xy: 175, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_08_L
+  rotate: true
+  xy: 175, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_13_L
+  rotate: true
+  xy: 175, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_01_L
+  rotate: true
+  xy: 222, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_03_L
+  rotate: true
+  xy: 269, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_04_L
+  rotate: true
+  xy: 316, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_15_L
+  rotate: true
+  xy: 316, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_05_L
+  rotate: true
+  xy: 363, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_16_L
+  rotate: true
+  xy: 363, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_06_L
+  rotate: true
+  xy: 410, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_12_L
+  rotate: true
+  xy: 410, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_17_L
+  rotate: true
+  xy: 410, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_07_L
+  rotate: true
+  xy: 833, 3
+  size: 40, 45
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_09_L
+  rotate: true
+  xy: 457, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_14_L
+  rotate: true
+  xy: 457, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_10_L
+  rotate: true
+  xy: 504, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/eat_11_L
+  rotate: true
+  xy: 551, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/idle2_00_L
+  rotate: true
+  xy: 598, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/idle3_00_L
+  rotate: true
+  xy: 645, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/idle_00_L
+  rotate: true
+  xy: 692, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/idle_01_L
+  rotate: true
+  xy: 739, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/idle_02_L
+  rotate: true
+  xy: 786, 3
+  size: 40, 46
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/liza_chair
+  rotate: true
+  xy: 1, 10
+  size: 33, 77
+  orig: 256, 256
+  offset: 109, 88
+  index: -1
+images_liza/story_00_L
+  rotate: true
+  xy: 879, 2
+  size: 41, 45
+  orig: 256, 256
+  offset: 111, 100
+  index: -1
+images_liza/story_01_L
+  rotate: true
+  xy: 925, 1
+  size: 42, 44
+  orig: 256, 256
+  offset: 110, 100
+  index: -1
+images_liza/story_02_L
+  rotate: true
+  xy: 925, 1
+  size: 42, 44
+  orig: 256, 256
+  offset: 110, 100
+  index: -1
+images_liza/story_03_L
+  rotate: true
+  xy: 79, 1
+  size: 42, 48
+  orig: 256, 256
+  offset: 109, 101
+  index: -1
+images_liza/story_04_L
+  rotate: true
+  xy: 128, 2
+  size: 41, 46
+  orig: 256, 256
+  offset: 110, 100
+  index: -1

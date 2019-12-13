@@ -1,0 +1,286 @@
+
+CTB_luanne_U.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_luanne/eat_00_U
+  rotate: true
+  xy: 463, 28
+  size: 35, 42
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_01_U
+  rotate: false
+  xy: 806, 22
+  size: 34, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_02_U
+  rotate: false
+  xy: 841, 22
+  size: 34, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_03_U
+  rotate: true
+  xy: 506, 28
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_04_U
+  rotate: true
+  xy: 548, 28
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_05_U
+  rotate: false
+  xy: 352, 22
+  size: 36, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_06_U
+  rotate: false
+  xy: 389, 22
+  size: 36, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_07_U
+  rotate: false
+  xy: 426, 22
+  size: 36, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_08_U
+  rotate: false
+  xy: 770, 23
+  size: 35, 40
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_09_U
+  rotate: false
+  xy: 590, 22
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_10_U
+  rotate: false
+  xy: 626, 22
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_11_U
+  rotate: false
+  xy: 662, 22
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_12_U
+  rotate: false
+  xy: 698, 22
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/eat_13_U
+  rotate: false
+  xy: 734, 22
+  size: 35, 41
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/idle2_00_U
+  rotate: true
+  xy: 484, 7
+  size: 20, 19
+  orig: 256, 256
+  offset: 119, 131
+  index: -1
+images_luanne/idle3_00_U
+  rotate: false
+  xy: 352, 1
+  size: 21, 20
+  orig: 256, 256
+  offset: 118, 130
+  index: -1
+images_luanne/idle_00_U
+  rotate: false
+  xy: 418, 2
+  size: 21, 19
+  orig: 256, 256
+  offset: 118, 131
+  index: -1
+images_luanne/idle_01_U
+  rotate: false
+  xy: 440, 2
+  size: 21, 19
+  orig: 256, 256
+  offset: 118, 131
+  index: -1
+images_luanne/idle_02_U
+  rotate: false
+  xy: 462, 2
+  size: 21, 19
+  orig: 256, 256
+  offset: 118, 131
+  index: -1
+images_luanne/luanne_bread
+  rotate: false
+  xy: 504, 1
+  size: 29, 12
+  orig: 256, 256
+  offset: 108, 95
+  index: -1
+images_luanne/luanne_drink
+  rotate: true
+  xy: 559, 5
+  size: 10, 15
+  orig: 256, 256
+  offset: 95, 102
+  index: -1
+images_luanne/luanne_fish
+  rotate: false
+  xy: 532, 16
+  size: 27, 11
+  orig: 256, 256
+  offset: 84, 119
+  index: -1
+images_luanne/luanne_fork
+  rotate: false
+  xy: 1, 1
+  size: 14, 4
+  orig: 256, 256
+  offset: 118, 105
+  index: -1
+images_luanne/luanne_knife
+  rotate: false
+  xy: 31, 2
+  size: 15, 3
+  orig: 256, 256
+  offset: 98, 117
+  index: -1
+images_luanne/luanne_soup
+  rotate: false
+  xy: 534, 6
+  size: 24, 9
+  orig: 256, 256
+  offset: 74, 111
+  index: -1
+images_luanne/luanne_spoon
+  rotate: false
+  xy: 16, 1
+  size: 14, 4
+  orig: 256, 256
+  offset: 122, 102
+  index: -1
+images_luanne/luanne_steak
+  rotate: false
+  xy: 504, 14
+  size: 27, 13
+  orig: 256, 256
+  offset: 101, 107
+  index: -1
+images_luanne/story_00_U
+  rotate: false
+  xy: 374, 1
+  size: 21, 20
+  orig: 256, 256
+  offset: 120, 129
+  index: -1
+images_luanne/story_01_U
+  rotate: true
+  xy: 1, 6
+  size: 57, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_02_U
+  rotate: true
+  xy: 256, 8
+  size: 55, 31
+  orig: 256, 256
+  offset: 86, 118
+  index: -1
+images_luanne/story_03_U
+  rotate: true
+  xy: 288, 8
+  size: 55, 31
+  orig: 256, 256
+  offset: 86, 118
+  index: -1
+images_luanne/story_04_U
+  rotate: true
+  xy: 193, 7
+  size: 56, 31
+  orig: 256, 256
+  offset: 85, 118
+  index: -1
+images_luanne/story_05_U
+  rotate: true
+  xy: 33, 6
+  size: 57, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_06_U
+  rotate: true
+  xy: 65, 6
+  size: 57, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_07_U
+  rotate: true
+  xy: 97, 6
+  size: 57, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_08_U
+  rotate: true
+  xy: 225, 6
+  size: 57, 30
+  orig: 256, 256
+  offset: 84, 121
+  index: -1
+images_luanne/story_09_U
+  rotate: true
+  xy: 129, 6
+  size: 57, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_10_U
+  rotate: true
+  xy: 161, 6
+  size: 57, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_11_U
+  rotate: true
+  xy: 320, 9
+  size: 54, 31
+  orig: 256, 256
+  offset: 84, 118
+  index: -1
+images_luanne/story_12_U
+  rotate: false
+  xy: 396, 1
+  size: 21, 20
+  orig: 256, 256
+  offset: 120, 129
+  index: -1

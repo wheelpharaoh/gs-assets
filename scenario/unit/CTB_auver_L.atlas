@@ -1,0 +1,104 @@
+
+CTB_auver_L.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_auver/auver_chair
+  rotate: false
+  xy: 1, 1
+  size: 33, 82
+  orig: 256, 256
+  offset: 109, 88
+  index: -1
+images_auver/eat_00_L
+  rotate: true
+  xy: 241, 6
+  size: 38, 69
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/eat_01_L
+  rotate: true
+  xy: 241, 6
+  size: 38, 69
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/eat_02_L
+  rotate: true
+  xy: 241, 6
+  size: 38, 69
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/eat_03_L
+  rotate: true
+  xy: 241, 45
+  size: 38, 70
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/eat_04_L
+  rotate: true
+  xy: 312, 45
+  size: 38, 70
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/eat_05_L
+  rotate: true
+  xy: 311, 6
+  size: 38, 69
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/idle2_00_L
+  rotate: false
+  xy: 77, 14
+  size: 40, 69
+  orig: 256, 256
+  offset: 117, 87
+  index: -1
+images_auver/idle3_00_L
+  rotate: false
+  xy: 35, 14
+  size: 41, 69
+  orig: 256, 256
+  offset: 116, 87
+  index: -1
+images_auver/idle_00_L
+  rotate: false
+  xy: 118, 14
+  size: 40, 69
+  orig: 256, 256
+  offset: 117, 87
+  index: -1
+images_auver/idle_01_L
+  rotate: false
+  xy: 159, 14
+  size: 40, 69
+  orig: 256, 256
+  offset: 117, 87
+  index: -1
+images_auver/idle_02_L
+  rotate: false
+  xy: 200, 14
+  size: 40, 69
+  orig: 256, 256
+  offset: 117, 87
+  index: -1
+images_auver/story_00_L
+  rotate: true
+  xy: 383, 45
+  size: 38, 70
+  orig: 256, 256
+  offset: 119, 87
+  index: -1
+images_auver/story_01_L
+  rotate: true
+  xy: 381, 6
+  size: 38, 68
+  orig: 256, 256
+  offset: 119, 87
+  index: -1

@@ -1,0 +1,118 @@
+
+CTB_auver_U.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_auver/auver_bread
+  rotate: false
+  xy: 328, 18
+  size: 29, 12
+  orig: 256, 256
+  offset: 157, 124
+  index: -1
+images_auver/auver_drink
+  rotate: true
+  xy: 414, 20
+  size: 10, 15
+  orig: 256, 256
+  offset: 136, 100
+  index: -1
+images_auver/auver_fish
+  rotate: false
+  xy: 386, 19
+  size: 27, 11
+  orig: 256, 256
+  offset: 171, 114
+  index: -1
+images_auver/auver_fork
+  rotate: false
+  xy: 1, 1
+  size: 14, 4
+  orig: 256, 256
+  offset: 149, 122
+  index: -1
+images_auver/auver_knife
+  rotate: false
+  xy: 430, 27
+  size: 15, 3
+  orig: 256, 256
+  offset: 141, 113
+  index: -1
+images_auver/auver_soup
+  rotate: false
+  xy: 328, 8
+  size: 24, 9
+  orig: 256, 256
+  offset: 137, 115
+  index: -1
+images_auver/auver_spoon
+  rotate: false
+  xy: 16, 1
+  size: 14, 4
+  orig: 256, 256
+  offset: 136, 109
+  index: -1
+images_auver/auver_steak
+  rotate: false
+  xy: 358, 17
+  size: 27, 13
+  orig: 256, 256
+  offset: 153, 106
+  index: -1
+images_auver/eat_00_U
+  rotate: false
+  xy: 168, 6
+  size: 39, 24
+  orig: 256, 256
+  offset: 122, 115
+  index: -1
+images_auver/eat_01_U
+  rotate: false
+  xy: 208, 6
+  size: 39, 24
+  orig: 256, 256
+  offset: 122, 115
+  index: -1
+images_auver/eat_02_U
+  rotate: false
+  xy: 127, 6
+  size: 40, 24
+  orig: 256, 256
+  offset: 121, 115
+  index: -1
+images_auver/eat_03_U
+  rotate: false
+  xy: 1, 6
+  size: 41, 24
+  orig: 256, 256
+  offset: 120, 115
+  index: -1
+images_auver/eat_04_U
+  rotate: false
+  xy: 43, 6
+  size: 41, 24
+  orig: 256, 256
+  offset: 120, 115
+  index: -1
+images_auver/eat_05_U
+  rotate: false
+  xy: 248, 6
+  size: 39, 24
+  orig: 256, 256
+  offset: 122, 115
+  index: -1
+images_auver/story_00_U
+  rotate: false
+  xy: 85, 6
+  size: 41, 24
+  orig: 256, 256
+  offset: 120, 115
+  index: -1
+images_auver/story_01_U
+  rotate: false
+  xy: 288, 8
+  size: 39, 22
+  orig: 256, 256
+  offset: 122, 115
+  index: -1

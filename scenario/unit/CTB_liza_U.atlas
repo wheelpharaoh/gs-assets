@@ -1,0 +1,223 @@
+
+CTB_liza_U.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_liza/eat_00_U
+  rotate: false
+  xy: 1, 18
+  size: 31, 13
+  orig: 256, 256
+  offset: 126, 118
+  index: -1
+images_liza/eat_01_U
+  rotate: false
+  xy: 1, 4
+  size: 31, 13
+  orig: 256, 256
+  offset: 127, 118
+  index: -1
+images_liza/eat_02_U
+  rotate: true
+  xy: 59, 1
+  size: 20, 12
+  orig: 256, 256
+  offset: 126, 118
+  index: -1
+images_liza/eat_03_U
+  rotate: false
+  xy: 113, 18
+  size: 22, 13
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_04_U
+  rotate: false
+  xy: 136, 18
+  size: 22, 13
+  orig: 256, 256
+  offset: 124, 120
+  index: -1
+images_liza/eat_05_U
+  rotate: false
+  xy: 159, 17
+  size: 22, 14
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_06_U
+  rotate: false
+  xy: 159, 17
+  size: 22, 14
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_07_U
+  rotate: true
+  xy: 98, 1
+  size: 19, 10
+  orig: 256, 256
+  offset: 124, 120
+  index: -1
+images_liza/eat_08_U
+  rotate: false
+  xy: 109, 6
+  size: 20, 11
+  orig: 256, 256
+  offset: 126, 118
+  index: -1
+images_liza/eat_09_U
+  rotate: false
+  xy: 228, 20
+  size: 22, 11
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_10_U
+  rotate: false
+  xy: 182, 18
+  size: 22, 13
+  orig: 256, 256
+  offset: 124, 120
+  index: -1
+images_liza/eat_11_U
+  rotate: false
+  xy: 205, 19
+  size: 22, 12
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_12_U
+  rotate: false
+  xy: 205, 19
+  size: 22, 12
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_13_U
+  rotate: true
+  xy: 85, 1
+  size: 19, 12
+  orig: 256, 256
+  offset: 126, 118
+  index: -1
+images_liza/eat_14_U
+  rotate: true
+  xy: 228, 1
+  size: 18, 12
+  orig: 256, 256
+  offset: 125, 118
+  index: -1
+images_liza/eat_15_U
+  rotate: true
+  xy: 205, 1
+  size: 17, 13
+  orig: 256, 256
+  offset: 125, 120
+  index: -1
+images_liza/eat_16_U
+  rotate: true
+  xy: 72, 1
+  size: 20, 12
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/eat_17_U
+  rotate: true
+  xy: 72, 1
+  size: 20, 12
+  orig: 256, 256
+  offset: 124, 119
+  index: -1
+images_liza/liza_bread00
+  rotate: true
+  xy: 241, 9
+  size: 10, 7
+  orig: 256, 256
+  offset: 147, 119
+  index: -1
+images_liza/liza_bread01
+  rotate: true
+  xy: 241, 9
+  size: 10, 7
+  orig: 256, 256
+  offset: 153, 119
+  index: -1
+images_liza/liza_dish
+  rotate: false
+  xy: 59, 22
+  size: 27, 9
+  orig: 256, 256
+  offset: 142, 115
+  index: -1
+images_liza/liza_drink
+  rotate: false
+  xy: 153, 1
+  size: 10, 15
+  orig: 256, 256
+  offset: 176, 129
+  index: -1
+images_liza/liza_fish
+  rotate: false
+  xy: 87, 21
+  size: 25, 10
+  orig: 256, 256
+  offset: 158, 121
+  index: -1
+images_liza/liza_fork
+  rotate: true
+  xy: 251, 18
+  size: 13, 4
+  orig: 256, 256
+  offset: 159, 129
+  index: -1
+images_liza/liza_knife
+  rotate: false
+  xy: 164, 1
+  size: 14, 3
+  orig: 256, 256
+  offset: 141, 111
+  index: -1
+images_liza/liza_soup
+  rotate: false
+  xy: 130, 8
+  size: 22, 9
+  orig: 256, 256
+  offset: 156, 106
+  index: -1
+images_liza/liza_spoon
+  rotate: false
+  xy: 109, 1
+  size: 13, 4
+  orig: 256, 256
+  offset: 135, 108
+  index: -1
+images_liza/liza_steak
+  rotate: false
+  xy: 33, 18
+  size: 25, 13
+  orig: 256, 256
+  offset: 170, 114
+  index: -1
+images_liza/story_00_U
+  rotate: false
+  xy: 164, 5
+  size: 10, 11
+  orig: 256, 256
+  offset: 122, 116
+  index: -1
+images_liza/story_01_U
+  rotate: false
+  xy: 33, 1
+  size: 11, 16
+  orig: 256, 256
+  offset: 122, 110
+  index: -1
+images_liza/story_02_U
+  rotate: false
+  xy: 45, 1
+  size: 10, 16
+  orig: 256, 256
+  offset: 122, 110
+  index: -1
